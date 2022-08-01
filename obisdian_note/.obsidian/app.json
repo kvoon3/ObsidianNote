@@ -1,0 +1,23 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "前端学习/😁三件套/02CSS/img",
+  "communityPluginSortOrder": "download",
+  "strictLineBreaks": true,
+  "vimMode": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "tabSize": 2
+}

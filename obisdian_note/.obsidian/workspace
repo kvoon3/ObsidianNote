@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "b6630844c9d0ad39",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5870433a900be55",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端学习/🔮设计模式/00设计模式原则/04-L迪米特法则.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe99ecaefebe241f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7adeb6ccd869ae6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bf3ae1a59410c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27e7c4cef77fbe37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "right": {
+    "id": "535117ac6b3b57ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "468a03af6155690c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "521149ad8b414408",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端学习/🔮设计模式/00设计模式原则/04-L迪米特法则.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f78ae81fbb15049f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端学习/🔮设计模式/00设计模式原则/04-L迪米特法则.md"
+              }
+            }
+          },
+          {
+            "id": "6991d5bcb9e013a3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0115b3403c2b9733",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "active": "a5870433a900be55",
+  "lastOpenFiles": [
+    "前端学习/🔮设计模式/00设计模式原则/04-L迪米特法则.md",
+    "前端学习/😁三件套/02CSS/平行四边形的画法/扭曲加伪对象.md",
+    "前端学习/😁三件套/02CSS/平行四边形的画法/裁剪.md",
+    "前端学习/😁三件套/02CSS/平行四边形的画法/背景图法.md",
+    "前端学习/🔮设计模式/00设计模式原则/02-O开闭原则.md",
+    "前端学习/🔮设计模式/00设计模式原则/03-L里氏替换原则.md",
+    "前端学习/🔮设计模式/00设计模式原则/06-D依赖倒转原则.md",
+    "前端学习/🔮设计模式/00设计模式原则/00设计模式原则.md",
+    "前端学习/🔮设计模式/00设计模式原则/05-I接口隔离原则.md",
+    "前端学习/🔮设计模式/00设计模式原则/01-S单一职责原则.md"
+  ]
+}

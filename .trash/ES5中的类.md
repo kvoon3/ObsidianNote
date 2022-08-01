@@ -1,0 +1,69 @@
+## 继承
+
+### 1.借用构造函数继承
+
+
+
+```js
+function Person(name,age){
+	this.name = name;
+	this.age = age;
+}
+
+
+function Student(name,age,gender){
+	Person.call(this,name,age)  //相当于把构造函数Person拿过来执行了一遍
+	this.gender = gender
+}
+```
+
+***缺点***
+
+可以拿到构造函数里的内容，但是**没法继承原型链上的属性和方法**
+
+---
+
+### 2.原型链实现继承
+
+```js
+
+function Person(name,age){
+	this.name = age;
+	this.age = age;
+}
+
+function Student(gender){
+	this.gender = gender;
+}
+
+Student.prototype = new Person(); //为了看到父类型的方法,副作用：construtor为Person
+Student.constructor = Student; //修正construtor
+
+let student = new Student("gender");//继承来的值（name,age）没法自定义
+```
+
+![[../img/es5继承]]
+
+### 3.(最终方案)
+
+原型链+借用构造函数
+
+```js
+function Person(name,age){
+	this.name = name;
+	this.age = age;
+}
+Person.prototype.personMethod = function (){
+	console.log(this.name,this.age);
+}
+
+function Student(name,age,gender){
+	Person.call(this,name,age);
+	this.gender = gender;
+}
+
+Student.prototype = new Person(); //仅仅是为了能找到父类的方法
+Student.constructor = Student;  //修正constructor指向
+
+let s1 = new Student("kvoon",12,"male");
+```
