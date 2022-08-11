@@ -13,15 +13,15 @@
 
 #### 简单工厂模式
 
-![[../../img/Pasted image 20220718103415.png]]
+![[../../../img/Pasted image 20220718103415.png]]
 <span class="title">简单工厂模式</span>
 ### 工厂方法模式
 
-![[../../img/Pasted image 20220718175208.png]]
+![[../../../img/Pasted image 20220718175208.png]]
 <span class="title">工厂方法模式</span>
 ### 抽象工厂模式
 
-![[../../img/Pasted image 20220718175244.png]]
+![[../../../img/Pasted image 20220718175244.png]]
 <span class="title">抽象工厂模式</span>
 
 ### 工厂方法模式与抽象工厂模式异同
