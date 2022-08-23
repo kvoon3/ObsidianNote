@@ -19,5 +19,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "tabSize": 2
+  "tabSize": 2,
+  "monospaceFontFamily": "DejaVu Sans Mono",
+  "textFontFamily": "微软雅黑,黑体"
 }

@@ -5,6 +5,5 @@
   "enabledCssSnippets": [
     "myStyle"
   ],
-  "monospaceFontFamily": "DejaVu Sans Mono",
-  "textFontFamily": "微软雅黑,黑体"
+  "cssTheme": "Minimal"
 }
