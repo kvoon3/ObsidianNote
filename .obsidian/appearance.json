@@ -1,9 +1,6 @@
 {
-  "baseFontSize": 21,
-  "translucency": false,
-  "theme": "moonstone",
-  "enabledCssSnippets": [
-    "myStyle"
-  ],
+  "monospaceFontFamily": "DejaVu Sans Mono",
+  "textFontFamily": "微软雅黑,黑体",
+  "baseFontSize": 18,
   "cssTheme": "Minimal"
 }

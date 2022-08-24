@@ -1,15 +1,15 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "promptDelete": false,
   "readableLineLength": true,
   "showFrontmatter": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "trashOption": "local",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "前端学习/🕷网络/cookie_session_token/img",
+  "attachmentFolderPath": "前端学习/☁小程序/img",
   "communityPluginSortOrder": "download",
   "strictLineBreaks": true,
   "vimMode": false,
@@ -19,7 +19,5 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "tabSize": 2,
-  "monospaceFontFamily": "DejaVu Sans Mono",
-  "textFontFamily": "微软雅黑,黑体"
+  "tabSize": 2
 }
