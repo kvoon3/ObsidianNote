@@ -6,3 +6,6 @@
 [前端实现token刷新CSDN](https://blog.csdn.net/hfhwfw161226/article/details/106904834)
 
 ![[img/Pasted image 20220811183552.png]]
+[vue项目封装auth.js工具,用vuex实现登录信息校验管理token](https://blog.csdn.net/weixin_45849112/article/details/108110032)
+
+
