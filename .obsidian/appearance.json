@@ -1,6 +1,8 @@
 {
   "monospaceFontFamily": "DejaVu Sans Mono",
   "textFontFamily": "微软雅黑,黑体",
-  "baseFontSize": 18,
-  "cssTheme": "Minimal"
+  "baseFontSize": 29,
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter"
 }
