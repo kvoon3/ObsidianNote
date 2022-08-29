@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "458151de9910f4c5",
+        "id": "1d9cc191ea6f3d80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/☁小程序/wx脚本/wxs 和 js 的关系.md",
+            "file": "前端学习/☁小程序/全局事件共享.md",
             "mode": "source",
             "backlinks": true,
             "source": true
-          }
-        }
-      },
-      {
-        "id": "20dbe07be5a583e5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "前端学习/☁小程序/组件/methods规范.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
           }
         }
       }
@@ -67,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.011999130249
+    "width": 213
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -83,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/☁小程序/组件/methods规范.md",
+                "file": "前端学习/☁小程序/全局事件共享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/☁小程序/组件/methods规范.md"
+                "file": "前端学习/☁小程序/全局事件共享.md"
               }
             }
           },
@@ -133,16 +120,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.63226318359375
+    "width": 274
   },
-  "active": "20dbe07be5a583e5",
+  "active": "1d9cc191ea6f3d80",
   "lastOpenFiles": [
+    "前端学习/☁小程序/组件/methods规范.md",
     "前端学习/☁小程序/wx脚本/wxs 和 js 的关系.md",
     "前端学习/☁小程序/wx脚本/特点.md",
     "前端学习/☁小程序/wx脚本/基础语法.md",
     "前端学习/☁小程序/wx脚本/00index.md",
     "未命名.md",
-    "前端学习/☁小程序/组件/methods规范.md",
     "202208261914.md",
     "未命名 1.md",
     "前端学习/☁小程序/组件/02样式隔离.md",
