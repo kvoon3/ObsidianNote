@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/☁小程序/wx脚本/wxs 和 js 的关系.md",
-            "mode": "source",
+            "file": "前端学习/☁小程序/API/promise化.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
-          }
-        }
-      },
-      {
-        "id": "20dbe07be5a583e5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "前端学习/☁小程序/组件/methods规范.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
           }
         }
       }
@@ -83,13 +70,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/☁小程序/组件/methods规范.md",
+                "file": "前端学习/☁小程序/API/promise化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -100,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/☁小程序/组件/methods规范.md"
+                "file": "前端学习/☁小程序/API/promise化.md"
               }
             }
           },
@@ -127,25 +114,32 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "c227a8f15e09ea1f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 331.63226318359375
   },
-  "active": "20dbe07be5a583e5",
+  "active": "458151de9910f4c5",
   "lastOpenFiles": [
-    "前端学习/☁小程序/wx脚本/wxs 和 js 的关系.md",
-    "前端学习/☁小程序/wx脚本/特点.md",
-    "前端学习/☁小程序/wx脚本/基础语法.md",
-    "前端学习/☁小程序/wx脚本/00index.md",
-    "未命名.md",
-    "前端学习/☁小程序/组件/methods规范.md",
-    "202208261914.md",
+    "前端学习/☁小程序/vant/自定义主题.md",
+    "前端学习/☁小程序/npm.md",
+    "前端学习/☁小程序/组件/00组件intro.md",
+    "前端学习/☁小程序/组件/组件与页面的区别.md",
+    "前端学习/☁小程序/组件/样式隔离.md",
+    "前端学习/☁小程序/组件/基本使用.md",
+    "前端学习/☁小程序/生命周期/index.md",
+    "前端学习/☁小程序/组件/properties.md",
     "未命名 1.md",
-    "前端学习/☁小程序/组件/02样式隔离.md",
-    "前端学习/☁小程序/组件/01组件与页面的区别.md"
+    "前端学习/☁小程序/组件/methods规范.md"
   ]
 }

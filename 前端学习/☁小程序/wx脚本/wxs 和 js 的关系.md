@@ -14,4 +14,4 @@ wxs 虽然语法类似于 js，但两者是完全不同的两种语言：
 
 ***支持 commonjs 规范 ***
 
-model 对象 require() 函数 model.exports 对象
+model 对象 require() 函数 model.exports 对象 

@@ -19,5 +19,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "tabSize": 2
+  "tabSize": 2,
+  "showUnsupportedFiles": true
 }

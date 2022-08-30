@@ -15,5 +15,9 @@
   "obsidian-pandoc",
   "obsidian-wordpress",
   "url-into-selection",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "sliding-panes-obsidian",
+  "obsidian-checklist-plugin",
+  "obsidian-mind-map",
+  "cm-typewriter-scroll-obsidian"
 ]
