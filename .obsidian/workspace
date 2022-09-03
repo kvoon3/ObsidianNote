@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "458151de9910f4c5",
+        "id": "1d9cc191ea6f3d80",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "前端学习/☁小程序/事件/00事件.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "6950c1a8064fd579",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "前端学习/🌎性能优化/01_浏览器功能与组成.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -54,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shared",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.011999130249
+    "width": 213
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -83,13 +65,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/☁小程序/事件/00事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -99,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "前端学习/☁小程序/事件/00事件.md"
-              }
+              "state": {}
             }
           },
           {
@@ -111,25 +90,41 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0115b3403c2b9733",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4afca9fb986bd081",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 331.63226318359375,
-    "collapsed": true
+    "width": 274
   },
-  "active": "458151de9910f4c5",
+  "active": "f1bf3ae1a59410c9",
   "lastOpenFiles": [
-    "前端学习/🌎性能优化/01_浏览器功能与组成.md",
-    "前端学习/☁小程序/事件/00事件.md",
-    "前端学习/☁小程序/开始/04事件绑定.md",
-    "前端学习/☁小程序/全局数据共享.md",
-    "前端学习/☁小程序/temp.md",
-    "前端学习/🌎性能优化/02_浏览器渲染引擎与阻塞.md",
-    "前端学习/☁小程序/分包/00分包.md",
-    "前端学习/☁小程序/分包/分配分包预下载.md",
-    "前端学习/☁小程序/分包/独立分包.md",
-    "前端学习/🛠版本控制/gitkeep.md"
+    "前端学习/☁小程序/组件/methods规范.md",
+    "前端学习/☁小程序/wx脚本/wxs 和 js 的关系.md",
+    "前端学习/☁小程序/wx脚本/特点.md",
+    "前端学习/☁小程序/wx脚本/基础语法.md",
+    "前端学习/☁小程序/wx脚本/00index.md",
+    "未命名.md",
+    "202208261914.md",
+    "未命名 1.md",
+    "前端学习/☁小程序/组件/02样式隔离.md",
+    "前端学习/☁小程序/组件/01组件与页面的区别.md"
   ]
 }
