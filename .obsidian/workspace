@@ -70,10 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
                 "file": "前端学习/☁小程序/vant/自定义主题.md",
->>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,13 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
                 "file": "前端学习/☁小程序/vant/自定义主题.md"
               }
->>>>>>> main
             }
           },
           {
@@ -129,14 +122,9 @@
     "direction": "horizontal",
     "width": 274
   },
-<<<<<<< HEAD
-  "active": "f1bf3ae1a59410c9",
-  "lastOpenFiles": [
-=======
   "active": "1d9cc191ea6f3d80",
   "lastOpenFiles": [
     "前端学习/☁小程序/全局事件共享.md",
->>>>>>> main
     "前端学习/☁小程序/组件/methods规范.md",
     "前端学习/☁小程序/wx脚本/wxs 和 js 的关系.md",
     "前端学习/☁小程序/wx脚本/特点.md",
@@ -145,11 +133,6 @@
     "未命名.md",
     "202208261914.md",
     "未命名 1.md",
-<<<<<<< HEAD
-    "前端学习/☁小程序/组件/02样式隔离.md",
-    "前端学习/☁小程序/组件/01组件与页面的区别.md"
-=======
     "前端学习/☁小程序/组件/02样式隔离.md"
->>>>>>> main
   ]
 }
