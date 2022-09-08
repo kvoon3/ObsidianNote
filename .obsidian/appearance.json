@@ -1,7 +1,7 @@
 {
-  "monospaceFontFamily": "DejaVu Sans Mono",
+  "monospaceFontFamily": "Lucida Console,DejaVu Sans Mono",
   "textFontFamily": "微软雅黑,黑体",
-  "baseFontSize": 29,
+  "baseFontSize": 28,
   "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
   "interfaceFontFamily": "Inter"

@@ -6,14 +6,16 @@
   "obsidian-admonition",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-git",
-  "obsidian-plugin-todo",
   "obsidian-editor-shortcuts",
   "code-block-copy",
-  "obsidian-dictionary-plugin",
   "obsidian-emoji-toolbar",
   "obsidian-linter",
   "obsidian-pandoc",
   "obsidian-wordpress",
   "url-into-selection",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "sliding-panes-obsidian",
+  "obsidian-mind-map",
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-tasks-plugin"
 ]

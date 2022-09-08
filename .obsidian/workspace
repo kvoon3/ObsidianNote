@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7b40b97ea2a95bb0",
+        "id": "8730813726ef13fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md",
+            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stack",
+                "query": "infer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md",
+                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md"
+                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md"
               }
             }
           },
