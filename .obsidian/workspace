@@ -7,8 +7,13 @@
         "id": "7b40b97ea2a95bb0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md"
+              }
             }
           },
           {
@@ -98,8 +106,9 @@
     "width": 331.63226318359375,
     "collapsed": true
   },
-  "active": "f1bf3ae1a59410c9",
+  "active": "7b40b97ea2a95bb0",
   "lastOpenFiles": [
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/keyof typeof.md",
     "前端学习/📦项目/00index.md",
     "前端学习/📕面试题/前端面试题.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md",
@@ -108,7 +117,6 @@
     "前端学习/API.md",
     "前端学习/🌎性能优化/01_浏览器功能与组成.md",
     "前端学习/temp.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/TypeScript文档.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/编译选项/项目选项.md"
+    "前端学习/😄三件套+/ES_TS/TypeScript/TypeScript文档.md"
   ]
 }
