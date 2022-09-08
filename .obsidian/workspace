@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "22e94962c0b7a056",
-=======
         "id": "1d9cc191ea6f3d80",
->>>>>>> f2434d8952647343760fc6ea93f59ce31459f5cc
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/keyof typeof.md",
-=======
             "file": "前端学习/☁小程序/vant/自定义主题.md",
->>>>>>> f2434d8952647343760fc6ea93f59ce31459f5cc
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -49,11 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "stack",
-=======
                 "query": "",
->>>>>>> f2434d8952647343760fc6ea93f59ce31459f5cc
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,11 +70,8 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/keyof typeof.md",
-=======
                 "file": "前端学习/☁小程序/vant/自定义主题.md",
->>>>>>> f2434d8952647343760fc6ea93f59ce31459f5cc
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/keyof typeof.md"
-=======
                 "file": "前端学习/☁小程序/vant/自定义主题.md"
->>>>>>> f2434d8952647343760fc6ea93f59ce31459f5cc
               }
             }
           },
@@ -142,20 +123,6 @@
     "direction": "horizontal",
     "width": 274
   },
-<<<<<<< HEAD
-  "active": "22e94962c0b7a056",
-  "lastOpenFiles": [
-    "前端学习/📦项目/00index.md",
-    "前端学习/📕面试题/前端面试题.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/01.md",
-    "未命名.md",
-    "前端学习/📕面试题/前端面试500题/三阶段面试题/三阶段.md",
-    "前端学习/API.md",
-    "前端学习/🌎性能优化/01_浏览器功能与组成.md",
-    "前端学习/temp.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/TypeScript文档.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/编译选项/项目选项.md"
-=======
   "active": "1d9cc191ea6f3d80",
   "lastOpenFiles": [
     "前端学习/☁小程序/全局事件共享.md",
@@ -168,6 +135,5 @@
     "202208261914.md",
     "未命名 1.md",
     "前端学习/☁小程序/组件/02样式隔离.md"
->>>>>>> f2434d8952647343760fc6ea93f59ce31459f5cc
   ]
 }
