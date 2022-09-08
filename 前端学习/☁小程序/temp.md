@@ -33,3 +33,9 @@ miniprogram 中 渲染层 和 逻辑层 是分开的，分别运行在不同的�
 
 ![[img/Pasted image 20220830181628.png]]
 
+## 获取界面上的节点
+
+```ts
+const query = wx.createSelectorQuery();
+	const box1 = query.select(".box1").boundingClientRect(function )
+```
