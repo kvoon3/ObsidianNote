@@ -4,6 +4,10 @@
 
 for example
 
+1. 传递一个对象类型和一个 union 类型，通过 union 类型传递的 key 项，使对象的部分属性被设置为 `readonly`
+2. 如果没有传递 union 类型，则默认所有属性为 `readonly`
+
+
 ```ts
 interface Todo {
   title: string
@@ -24,7 +28,8 @@ todo.completed = true // OK
 
 ## 实现
 
-利用 [[../交叉类型|交叉类型]] `&` 达到==分别描述一个对象的不同属性的目的==
+1. 利用 [[../交叉类型|交叉类型]] `&` 达到==分别描述一个对象的不同属性的目的==
+2. 使用默认参数（巧妙）
 
 ```ts
 type MyReadonly<T, K extends keyof T> = {
