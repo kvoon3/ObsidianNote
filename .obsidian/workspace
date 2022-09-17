@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Trim.md",
+            "file": "⚔Tasks.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infer",
+                "query": "浏览器渲染",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Trim.md",
+                "file": "⚔Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Trim.md"
+                "file": "⚔Tasks.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "8730813726ef13fc",
   "lastOpenFiles": [
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/字符串类型.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TrimLeft.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/LookUp.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/PromiseAll.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/数组类型.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TurpleToArray.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/readonly2.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/ChainableOptions.md",
-    "Excalidraw/Drawing 2022-09-11 14.43.44.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-11 14.43.42.excalidraw.md"
+    "前端学习/🛠版本控制/git.md",
+    "前端学习/🛠版本控制/git常用命令.md",
+    "前端学习/版本管理/git常用命令.md",
+    "前端学习/版本管理/git.md",
+    "前端学习/📕面试题/前端面试500题/三阶段面试题/三阶段.md",
+    "前端学习/🌎性能优化/03_图层与重绘重排.md",
+    "前端学习/🌎性能优化/02_浏览器渲染引擎与阻塞.md",
+    "前端学习/📕面试题/前端面试题.md",
+    "前端学习/🌎性能优化/01_浏览器功能与组成.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Trim.md"
   ]
 }
