@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8730813726ef13fc",
+        "id": "12a4322d8a6733c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "⚔Tasks.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -54,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.0004539489746
+    "width": 353
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚔Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "⚔Tasks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,19 +96,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.2857971191406
+    "width": 264.2857971191406,
+    "collapsed": true
   },
-  "active": "8730813726ef13fc",
+  "active": "12a4322d8a6733c9",
   "lastOpenFiles": [
-    "前端学习/🛠版本控制/git.md",
-    "前端学习/🛠版本控制/git常用命令.md",
-    "前端学习/版本管理/git常用命令.md",
-    "前端学习/版本管理/git.md",
-    "前端学习/📕面试题/前端面试500题/三阶段面试题/三阶段.md",
-    "前端学习/🌎性能优化/03_图层与重绘重排.md",
-    "前端学习/🌎性能优化/02_浏览器渲染引擎与阻塞.md",
-    "前端学习/📕面试题/前端面试题.md",
-    "前端学习/🌎性能优化/01_浏览器功能与组成.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Trim.md"
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Absolute.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/AppendToObject.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Flatten.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/LengthOfString.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Permutation.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TurpleToUnion.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/extends/条件类型与高级类型.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/readonly2.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md"
   ]
 }
