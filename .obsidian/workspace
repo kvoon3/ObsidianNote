@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12a4322d8a6733c9",
+        "id": "8730813726ef13fc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md"
+              }
             }
           },
           {
@@ -99,9 +107,8 @@
     "width": 264.2857971191406,
     "collapsed": true
   },
-  "active": "12a4322d8a6733c9",
+"active": "8730813726ef13fc",
   "lastOpenFiles": [
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Absolute.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/AppendToObject.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Flatten.md",
@@ -110,6 +117,7 @@
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TurpleToUnion.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/extends/条件类型与高级类型.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/readonly2.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md"
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Pick.md"
   ]
 }
