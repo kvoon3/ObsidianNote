@@ -4,5 +4,8 @@
   "baseFontSize": 28,
   "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
-  "interfaceFontFamily": "Inter"
+  "interfaceFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "myStyle"
+  ]
 }
