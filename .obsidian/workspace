@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8730813726ef13fc",
+        "id": "1d9cc191ea6f3d80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
+            "file": "前端学习/⚡框架/vue/动态加载script标签.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "浏览器渲染",
+                "query": "flex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 566.511999130249
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
+                "file": "前端学习/⚡框架/vue/动态加载script标签.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md"
+                "file": "前端学习/⚡框架/vue/动态加载script标签.md"
               }
             }
           },
@@ -98,26 +98,40 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0115b3403c2b9733",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4afca9fb986bd081",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.2857971191406,
-    "collapsed": true
+    "width": 274
   },
-"active": "8730813726ef13fc",
+  "active": "1d9cc191ea6f3d80",
   "lastOpenFiles": [
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Absolute.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/AppendToObject.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Flatten.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/LengthOfString.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Permutation.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TurpleToUnion.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/extends/条件类型与高级类型.md",
+    "前端学习/😁三件套/02CSS/布局/flex布局/01常用属性.md",
+    "前端学习/😁三件套/02CSS/布局/flex布局/00flex布局.md",
+    "前端学习/⚡框架/vue/异步路由/异步路由.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TurpleToArray.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/object vs Object.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/readonly2.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Pick.md"
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/交叉类型.md",
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/基本类型.md",
+    "前端学习/☁小程序/vant/自定义主题.md",
+    "前端学习/☁小程序/全局事件共享.md"
   ]
 }
