@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
+            "file": "前端学习/⚡框架/vue/mini-vue/start.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
+                "file": "前端学习/⚡框架/vue/mini-vue/start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md"
+                "file": "前端学习/⚡框架/vue/mini-vue/start.md"
               }
             }
           },
@@ -109,6 +109,7 @@
   },
   "active": "8730813726ef13fc",
   "lastOpenFiles": [
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Absolute.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/AppendToObject.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Flatten.md",
@@ -117,7 +118,6 @@
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TurpleToUnion.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/extends/条件类型与高级类型.md",
     "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/readonly2.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Pick.md"
+    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md"
   ]
 }
