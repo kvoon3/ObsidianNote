@@ -31,12 +31,13 @@ it(
 	1. 用户进入页面，请求远程数据
 	2. 列表展示远程返回的数据
 	`, 
- () => {
+ (done) => {
 		const wrapper = mount(Home);
 		
 		wrapper.vm.$nextTick(() => {
 			const list = wrapper.vm.list;
 			expect(listItems.length).toBeGreaterThan(0);
+			done();
 		})
  }
 )
