@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a2831a4a0fbe68ee",
+        "id": "577f4b43ffe20055",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/⚡框架/vue/mini-vue/start.md",
+            "file": "前端学习/测试/异步请求与 nextTick.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "浏览器渲染",
+                "query": "闭包",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "42165a33753f8ad1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 417.011999130249
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -70,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/⚡框架/vue/mini-vue/start.md",
+                "file": "前端学习/测试/异步请求与 nextTick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/⚡框架/vue/mini-vue/start.md"
+                "file": "前端学习/测试/异步请求与 nextTick.md"
               }
             }
           },
@@ -98,26 +106,65 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0115b3403c2b9733",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "4afca9fb986bd081",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "969f1903956ac3fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端学习/测试/异步请求与 nextTick.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4db2117b7fa240d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 264.2857971191406,
+    "width": 274,
     "collapsed": true
   },
-  "active": "f1bf3ae1a59410c9",
+  "active": "577f4b43ffe20055",
   "lastOpenFiles": [
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/StringToUnion.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Absolute.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/AppendToObject.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Flatten.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/LengthOfString.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Permutation.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/TurpleToUnion.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/extends/条件类型与高级类型.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/readonly2.md",
-    "前端学习/😄三件套+/ES_TS/TypeScript/00类型/高级类型/Omit.md"
+    "前端学习/测试/异步代码测试.md",
+    "前端学习/测试/mock timers.md",
+    "前端学习/📕面试题/前端面试500题/三阶段面试题/三阶段.md",
+    "前端学习/测试/异步请求与 nextTick.md",
+    "前端学习/测试/驱动开发/BDD.md",
+    "前端学习/测试/驱动开发/对比.md",
+    "前端学习/测试/BDD/BDD.md",
+    "前端学习/测试/驱动开发/TDD.md",
+    "jd/公共知识非法部分讲义.md",
+    "jd/f2c3a583f0d94c11a3e367ca38390577/1.md"
   ]
 }
