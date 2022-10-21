@@ -1,11 +1,15 @@
 {
   "monospaceFontFamily": "Lucida Console,DejaVu Sans Mono",
   "textFontFamily": "微软雅黑,黑体",
-  "baseFontSize": 28,
-  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 20,
+  "cssTheme": "",
   "theme": "obsidian",
   "interfaceFontFamily": "Inter",
   "enabledCssSnippets": [
     "myStyle"
-  ]
+  ],
+  "accentColor": "",
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false
 }

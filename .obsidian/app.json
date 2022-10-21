@@ -9,7 +9,7 @@
   "alwaysUpdateLinks": true,
   "trashOption": "local",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "前端学习/测试/img",
+  "attachmentFolderPath": "前端学习/前端工程化/img",
   "communityPluginSortOrder": "download",
   "strictLineBreaks": true,
   "vimMode": true,
@@ -21,5 +21,6 @@
   },
   "tabSize": 2,
   "showUnsupportedFiles": false,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "showInlineTitle": true
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "577f4b43ffe20055",
+        "id": "d5a3b5fb6781c162",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端学习/测试/异步请求与 nextTick.md",
+            "file": "前端学习/前端工程化/postcss/00 intro.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.011999130249
+    "width": 293.011999130249
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/测试/异步请求与 nextTick.md",
+                "file": "前端学习/前端工程化/postcss/00 intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/测试/异步请求与 nextTick.md"
+                "file": "前端学习/前端工程化/postcss/00 intro.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端学习/测试/异步请求与 nextTick.md",
+                "file": "前端学习/前端工程化/postcss/00 intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,20 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274,
+    "width": 189.6320343017578,
     "collapsed": true
   },
-  "active": "577f4b43ffe20055",
+  "active": "d5a3b5fb6781c162",
   "lastOpenFiles": [
+    "前端学习/前端工程化/vite/07 postcss.md",
+    "前端学习/前端工程化/vite/00 start.md",
+    "前端学习/前端工程化/postcss/00 intro.md",
+    "前端学习/测试/vue/Utils.md",
     "前端学习/测试/异步代码测试.md",
-    "前端学习/测试/mock timers.md",
-    "前端学习/📕面试题/前端面试500题/三阶段面试题/三阶段.md",
-    "前端学习/测试/异步请求与 nextTick.md",
-    "前端学习/测试/驱动开发/BDD.md",
-    "前端学习/测试/驱动开发/对比.md",
-    "前端学习/测试/BDD/BDD.md",
-    "前端学习/测试/驱动开发/TDD.md",
-    "jd/公共知识非法部分讲义.md",
-    "jd/f2c3a583f0d94c11a3e367ca38390577/1.md"
+    "前端学习/测试/匹配器.md",
+    "前端学习/测试/配置和基本使用.md",
+    "前端学习/测试/快照测试.md",
+    "前端学习/测试/对DOM节点的操作进行测试.md",
+    "前端学习/函数式编程/ramda.md"
   ]
 }
