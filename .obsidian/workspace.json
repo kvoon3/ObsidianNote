@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c0781c903b002a79",
+        "id": "0569f3ad8c068c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "d5a3b5fb6781c162",
+            "id": "32747e134fce5a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端学习/前端工程化/postcss/00 intro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f8229c1f8f4a151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端学习/前端工程化/vite/00 start.md",
+                "file": "前端学习/前端工程化/vite/07 postcss.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,12 +65,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c708efca862a33b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -100,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端学习/前端工程化/vite/00 start.md",
+                "file": "前端学习/前端工程化/vite/07 postcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端学习/前端工程化/vite/00 start.md"
+                "file": "前端学习/前端工程化/vite/07 postcss.md"
               }
             }
           },
@@ -151,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端学习/前端工程化/vite/00 start.md",
+                "file": "前端学习/前端工程化/vite/07 postcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,17 +173,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4f8229c1f8f4a151",
+  "active": "32747e134fce5a3c",
   "lastOpenFiles": [
+    "前端学习/前端工程化/vite/插件/00 intro.md",
+    "前端学习/前端工程化/vite/08 处理静态资源文件.md",
+    "前端学习/前端工程化/vite/04 配置文件处理.md",
+    "前端学习/前端工程化/vite/03 开始.md",
+    "前端学习/前端工程化/vite/01 脚手架.md",
+    "前端学习/前端工程化/vite/00 start.md",
+    "前端学习/前端工程化/vite/未命名.md",
     "Excalidraw/Drawing 2022-10-21 10.51.43.excalidraw.md",
     "前端学习/前端工程化/postcss/00 intro.md",
-    "前端学习/前端工程化/vite/07 postcss.md",
-    "未命名.md",
-    "未命名 1.md",
-    "前端学习/前端工程化/vite/00 start.md",
-    "前端学习/前端工程化/vite/01 脚手架.md",
-    "前端学习/测试/vue/Utils.md",
-    "前端学习/测试/异步代码测试.md",
-    "前端学习/测试/匹配器.md"
+    "前端学习/前端工程化/vite/07 postcss.md"
   ]
 }
