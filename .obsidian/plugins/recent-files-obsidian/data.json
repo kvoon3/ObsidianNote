@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "00 start",
+      "path": "前端学习/前端工程化/vite/00 start.md"
+    },
+    {
+      "basename": "插件",
+      "path": "前端学习/前端工程化/webpack/插件.md"
+    },
+    {
       "basename": "07 postcss",
       "path": "前端学习/前端工程化/vite/07 postcss.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
       "basename": "04 配置文件处理",
@@ -15,10 +27,6 @@
     {
       "basename": "01 脚手架",
       "path": "前端学习/前端工程化/vite/01 脚手架.md"
-    },
-    {
-      "basename": "00 start",
-      "path": "前端学习/前端工程化/vite/00 start.md"
     }
   ],
   "omittedPaths": [],

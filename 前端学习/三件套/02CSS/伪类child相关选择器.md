@@ -92,7 +92,7 @@ blue / red / blue / blue / red / blue
 指的是 .list 所有子代中的最后一个子代，且子代为 p 标签
 
 
-![[../../../🗑trash/img/Pasted image 20220627162137.png|400]]
+![[../../../trash/img/Pasted image 20220627162137.png|400]]
 
 
-![[../../../🗑trash/img/Pasted image 20220627162153.png|400]]
+![[../../../trash/img/Pasted image 20220627162153.png|400]]
