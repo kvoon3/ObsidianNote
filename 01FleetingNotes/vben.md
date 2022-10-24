@@ -1,9 +1,3 @@
----
-name:kwongliegaai
-age:12
----
-
-
 #project
 
 # 项目配置
@@ -99,4 +93,10 @@ export const prefixCls = "vben";
 
 
 # 路由
+
+`src/router/routes` 项目路由配置
+
+`src/router/routes/modules` 用于存放路由模块，该目录下的文件会自动注册
+
+## 配置
 
