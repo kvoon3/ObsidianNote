@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -167,13 +168,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5c45cb55d06603c8",
+  "active": "f78ae81fbb15049f",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2022-10-24 11.11.25.excalidraw.md",
     "01FleetingNotes/vben.md",

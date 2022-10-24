@@ -18,6 +18,79 @@
 
 ## 生产环境动态配置
 
-> 当我们在执行 `yarn build` 构建项目后，会根据 `VITE_GLOB_*` 自动生成 `_app.config.js` 文件，将其插入到 `index.html`
+> 当我们在执行 `yarn build` 构建项目后，会根据 `VITE_GLOB_*` 自动生成 `_app.config.js` 文件(`/dist/_app.config.js_`)，将其插入到 `index.html`
 
 ![[img/Pasted image 20221024111723.png]]
+
+dist 目录下的 `_app.config.js`
+
+```js
+window.__PRODUCTION__VUE_VBEN_ADMIN__CONF__ = {
+  VITE_GLOB_APP_TITLE: 'vben admin',
+  VITE_GLOB_APP_SHORT_NAME: 'vue_vben_admin',
+  VITE_GLOB_API_URL: '/app',
+  VITE_GLOB_API_URL_PREFIX: '/',
+  VITE_GLOB_UPLOAD_URL: '/upload',
+};
+```
+
+### 作用
+
+`_app.config.js` 可以用于在项目打包后根据需求动态修改配置，而不用重新进行打包
+
+### 新增
+
+[如何新增-新增一个可动态修改的配置项](https://vvbin.cn/doc-next/guide/settings.html#%E5%A6%82%E4%BD%95%E6%96%B0%E5%A2%9E-%E6%96%B0%E5%A2%9E%E4%B8%80%E4%B8%AA%E5%8F%AF%E5%8A%A8%E6%80%81%E4%BF%AE%E6%94%B9%E7%9A%84%E9%85%8D%E7%BD%AE%E9%A1%B9)
+1. 在对应的配置文件中，新增需要可动态配置的变量，需要以 `VITE_GLOB_` 开头
+2. `VITE_GLOB_` 会被自动加入环境变量，但是需要我们手动加入类型，通过在 `src/types/config.d.ts` 内修改 `GlobEnvConfig` 和 `GlobConfig` 两个环境变量的值来定义新添加的类型
+3. 在 `useGlobSetting` 函数中增加新增的返回值即可
+
+## 项目配置
+
+包括的范围：各种效果
+
+- 展示的内容
+- 布局
+- 文本
+
+存储：存于 `localStorage` 中，如果更改了项目配置，需要手动清空 `localStorage` 缓存，**刷新重新登录后方可生效**
+
+配置文件路径：`src/settings/projectSetting.ts`
+
+## 缓存配置
+
+在 `/@/setting/encryptionSetting.ts` 内可以配置 `localStorage` 和 `sessionStorage` 缓存信息
+
+
+> [!attention] 前提
+> 使用项目的缓存工具类 `/@/utils/cache` 进行缓存操作
+
+## 样式配置
+
+### css 前缀配置
+
+用于修改项目中组件 class 的统一前缀
+
+- 在 `src/settings/designSetting.ts` 中配置
+
+```ts
+export const prefixCls = "vben";
+```
+
+- 在 `src/design/var/index.less` 配置 css 前缀
+
+```less
+@namespace:vben
+```
+
+#### 使用
+
+- [ ⏫ ] TODO
+
+在 css 内
+
+
+# 路由
+
+
+
