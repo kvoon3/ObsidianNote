@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -176,6 +175,8 @@
   },
   "active": "5c45cb55d06603c8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-10-24 11.11.25.excalidraw.md",
+    "01FleetingNotes/vben.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md",
     "Tasks.md",
     "ObsidianNote(outdate/军队文职/粉笔/判断推理/论证.md",
@@ -183,8 +184,6 @@
     "trash/千峰FE.md",
     "trash/img/Pasted image 20220628144935.png",
     "trash/img/Pasted image 20220628113736.png",
-    "trash/img/Pasted image 20220628094959.png",
-    "trash/img/Pasted image 20220627162153.png",
-    "trash/img/Pasted image 20220627162137.png"
+    "trash/img/Pasted image 20220628094959.png"
   ]
 }
