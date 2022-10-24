@@ -200,3 +200,23 @@ VITE_GLOB_API_URL=http://localhost:3000
 
 ## 接口请求
 
+接口统一存放在 `src/api` 下面管理
+
+以登录接口为例：
+
+```ts
+import { defHttp } from "/@/utils/http/axios";
+import type { LoginParams, LoginResultModel} from "./model/userModel";
+
+enum Api {
+	Login = "/login";
+}
+
+export function loginApi(params: LoginParams) {
+	return defHttp.request<LoginResultModel>({
+		url:Api.Login,
+		method:"POST",
+		params
+	})
+}
+```
