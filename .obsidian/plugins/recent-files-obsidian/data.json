@@ -1,44 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "08 ts",
-      "path": "前端学习/前端工程化/vite/08 ts.md"
-    },
-    {
-      "basename": "05 环境变量",
-      "path": "前端学习/前端工程化/vite/05 环境变量.md"
+      "basename": "vben",
+      "path": "01FleetingNotes/vben.md"
     },
     {
       "basename": "intro",
-      "path": "前端学习/前端工程化/vite/插件/intro.md"
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md"
     },
     {
-      "basename": "00 start",
-      "path": "前端学习/前端工程化/vite/00 start.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
-      "basename": "插件",
-      "path": "前端学习/前端工程化/webpack/插件.md"
-    },
-    {
-      "basename": "07 postcss",
-      "path": "前端学习/前端工程化/vite/07 postcss.md"
+      "basename": "论证",
+      "path": "ObsidianNote(outdate/军队文职/粉笔/判断推理/论证.md"
     },
     {
       "basename": "未命名",
       "path": "未命名.md"
     },
     {
+      "basename": "Drawing 2022-10-21 10.51.43.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-10-21 10.51.43.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-09-11 14.43.44.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-09-11 14.43.44.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-09-11 14.43.42.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-09-11 14.43.42.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-08-24 18.58.47.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-08-24 18.58.47.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-08-24 18.58.41.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-08-24 18.58.41.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-05-17 12.46.59.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-05-17 12.46.59.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-04-07 21.40.18.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-04-07 21.40.18.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-04-07 21.40.17.excalidraw",
+      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-04-07 21.40.17.excalidraw.md"
+    },
+    {
+      "basename": "5efdfbdd50c8679085cff529c6692967.png",
+      "path": "media/5efdfbdd50c8679085cff529c6692967.png.md"
+    },
+    {
+      "basename": "前端面试题",
+      "path": "02LiteratureNotes/前端学习/面试题/前端面试题.md"
+    },
+    {
+      "basename": "08 ts",
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/08 ts.md"
+    },
+    {
+      "basename": "05 环境变量",
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/05 环境变量.md"
+    },
+    {
+      "basename": "00 start",
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md"
+    },
+    {
+      "basename": "插件",
+      "path": "02LiteratureNotes/前端学习/前端工程化/webpack/插件.md"
+    },
+    {
+      "basename": "07 postcss",
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/07 postcss.md"
+    },
+    {
       "basename": "04 配置文件处理",
-      "path": "前端学习/前端工程化/vite/04 配置文件处理.md"
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/04 配置文件处理.md"
     },
     {
       "basename": "03 开始",
-      "path": "前端学习/前端工程化/vite/03 开始.md"
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/03 开始.md"
     },
     {
       "basename": "01 脚手架",
-      "path": "前端学习/前端工程化/vite/01 脚手架.md"
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/01 脚手架.md"
     }
   ],
   "omittedPaths": [],

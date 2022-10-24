@@ -70,29 +70,39 @@
         "status": "unpublished",
         "elements": [
           {
-            "id": "V4_q7icvpZKrpHh6D__2S",
             "type": "arrow",
-            "x": -127.22222900390625,
-            "y": 199.50519561767578,
-            "width": 80,
-            "height": 0,
-            "angle": 0,
-            "strokeColor": "#000000",
-            "backgroundColor": "transparent",
+            "version": 15,
+            "versionNonce": 1335723571,
+            "isDeleted": false,
+            "id": "V4_q7icvpZKrpHh6D__2S",
             "fillStyle": "hachure",
             "strokeWidth": 1,
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
+            "angle": 0,
+            "x": -127.22222900390625,
+            "y": 199.50519561767578,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 80,
+            "height": 0,
+            "seed": 245009107,
             "groupIds": [],
             "strokeSharpness": "round",
-            "seed": 245009107,
-            "version": 15,
-            "versionNonce": 1335723571,
-            "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1652763309185,
             "link": null,
+            "locked": false,
+            "startBinding": {
+              "elementId": "EBIVlXsr",
+              "focus": 0.2777775355747768,
+              "gap": 5.111114501953125
+            },
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": "arrow",
             "points": [
               [
                 0,
@@ -102,16 +112,7 @@
                 80,
                 0
               ]
-            ],
-            "lastCommittedPoint": null,
-            "startBinding": {
-              "elementId": "EBIVlXsr",
-              "focus": 0.2777775355747768,
-              "gap": 5.111114501953125
-            },
-            "endBinding": null,
-            "startArrowhead": null,
-            "endArrowhead": "arrow"
+            ]
           }
         ],
         "created": 1652763322359

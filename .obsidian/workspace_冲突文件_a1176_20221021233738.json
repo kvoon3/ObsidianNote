@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "789b4037ce01c8a4",
+        "id": "39ad5812167b19b5",
         "type": "tabs",
         "children": [
           {
-            "id": "5c45cb55d06603c8",
+            "id": "577f4b43ffe20055",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01FleetingNotes/vben.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "插件",
+                "query": "闭包",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,21 +60,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "c708efca862a33b7",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 417.011999130249
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/vben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01FleetingNotes/vben.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/vben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,23 +150,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 274,
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5c45cb55d06603c8",
+  "active": "f1bf3ae1a59410c9",
   "lastOpenFiles": [
-    "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md",
-    "Tasks.md",
-    "ObsidianNote(outdate/军队文职/粉笔/判断推理/论证.md",
-    "未命名.md",
-    "trash/千峰FE.md",
-    "trash/img/Pasted image 20220628144935.png",
-    "trash/img/Pasted image 20220628113736.png",
-    "trash/img/Pasted image 20220628094959.png",
-    "trash/img/Pasted image 20220627162153.png",
-    "trash/img/Pasted image 20220627162137.png"
+    "前端学习/测试/对DOM节点的操作进行测试.md",
+    "ObsidianNote/前端学习/☁小程序/开始/01WXML模板.md",
+    "ObsidianNote/前端学习/☁小程序/开始/00JSON 配置文件.md",
+    "ObsidianNote/前端学习/☁小程序/分包/独立分包.md",
+    "ObsidianNote/前端学习/☁小程序/分包/00分包.md",
+    "前端学习/📕面试题/前端面试500题/三阶段面试题/三阶段.md",
+    "前端学习/测试/异步请求与 nextTick.md",
+    "前端学习/测试/驱动开发/BDD.md",
+    "前端学习/测试/驱动开发/对比.md",
+    "前端学习/测试/BDD/BDD.md"
   ]
 }
