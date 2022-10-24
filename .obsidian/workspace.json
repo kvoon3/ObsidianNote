@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f54ee0e63bdf49b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01FleetingNotes/vben.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209,
-    "collapsed": true
+    "width": 209
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -168,23 +181,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "19387f5bcfb54f5f",
+  "active": "f54ee0e63bdf49b7",
   "lastOpenFiles": [
-    "01FleetingNotes/keep-alive.md",
+    "01FleetingNotes/test.md",
     "01FleetingNotes/vben.md",
+    "01FleetingNotes/keep-alive.md",
     "Excalidraw/Drawing 2022-10-24 11.11.25.excalidraw.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md",
     "Tasks.md",
     "ObsidianNote(outdate/军队文职/粉笔/判断推理/论证.md",
     "未命名.md",
     "trash/千峰FE.md",
-    "trash/img/Pasted image 20220628144935.png",
-    "trash/img/Pasted image 20220628113736.png"
+    "trash/img/Pasted image 20220628144935.png"
   ]
 }
