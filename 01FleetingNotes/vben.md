@@ -220,3 +220,32 @@ export function loginApi(params: LoginParams) {
 	})
 }
 ```
+
+## axios 配置
+
+axios 请求封装在 `src/utils/http/axios` 文件夹中
+
+除了 `index.ts` 文件内容需要自行修改外，其余文件不需要修改
+
+- `Axios.ts` axios 实例
+- `axiosCancel.ts` axiosCancel 实例，用于取消重复请求
+- `axiosTransform.ts` 数据转换类
+-  `ckeckStatus.ts` 返回状态值校验
+- `index.ts` 接口返回统一处理
+
+**transform 数据处理说明**
+
+[详细信息](https://vvbin.cn/doc-next/guide/mock.html#index-ts-%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E)
+
+```ts
+// axiosTransform.ts
+export default class AxiosTransform {
+	// 请求之前处理配置
+	// 请求成功处理
+	// 请求失败处理
+	// 请求拦截器
+	// 响应拦截器
+	// 请求拦截器错误处理
+	// 响应拦截器错误处理	
+}
+```

@@ -24,8 +24,13 @@
             "id": "f54ee0e63bdf49b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01FleetingNotes/vben.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
@@ -87,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 209,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -103,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01FleetingNotes/vben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01FleetingNotes/vben.md"
+              }
             }
           },
           {
@@ -151,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01FleetingNotes/vben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,17 +187,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f1bf3ae1a59410c9",
+  "active": "f54ee0e63bdf49b7",
   "lastOpenFiles": [
-    "01FleetingNotes/vben.md",
-    "01FleetingNotes/test.md",
-    "01FleetingNotes/keep-alive.md",
-    "Excalidraw/Drawing 2022-10-24 11.11.25.excalidraw.md",
-    "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md",
-    "Tasks.md",
-    "ObsidianNote(outdate/军队文职/粉笔/判断推理/论证.md",
-    "未命名.md",
-    "trash/千峰FE.md",
-    "trash/img/Pasted image 20220628144935.png"
+    "02LiteratureNotes/前端学习/三件套+/ES_TS/TypeScript/函数/重载.md",
+    "02LiteratureNotes/前端学习/设计模式/01设计模式（23）/创造型/单例模式/00 index.md",
+    "02LiteratureNotes/前端学习/小程序/vant/自定义主题.md",
+    "02LiteratureNotes/前端学习/三件套+/ES_TS/TypeScript/00类型/高级类型/Absolute.md",
+    "02LiteratureNotes/前端学习/小程序/事件/00事件.md",
+    "02LiteratureNotes/前端学习/框架/React/Redux/react-redux/00react-redux模型图.md",
+    "02LiteratureNotes/前端学习/面试题/前端面试题.md",
+    "02LiteratureNotes/前端学习/性能优化/浏览器的功能和组成.md",
+    "02LiteratureNotes/前端学习/小程序/wx脚本/wxs 和 js 的关系.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/服务端字体.md"
   ]
 }
