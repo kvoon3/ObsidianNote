@@ -166,3 +166,37 @@ export enum PageEnum {
 4. 获取角色路由表
 5. 通过 `router.addRoutes` 添加到路由实例
 6. 最终实现权限的过滤
+
+# mock和联调
+
+
+## 开发环境
+
+### 配置
+
+`.env.development` 文件配置
+
+#### 存在跨域
+
+```shell
+# vite 本地跨域代理
+VITE_PROXY = [["/v1", "http://localhost:3000"]] # 不要换行
+# 接口地址
+VITE_GLOB_API_URL=/api #.env 文件下不写 "" 默认也为字符串
+```
+
+#### 未跨域
+
+```shell
+# 如果接口地址为 http://localhost:3000
+VITE_GLOB_API_URL=http://localhost:3000
+```
+
+## 生产环境
+
+生产地址需要修改接口地址 -> 直接修改 \_app.config.js 文件的 `VITE_GLOB_API_URL`
+
+出现跨域问题：使用 nginx 或者 后台开启 cors 跨域
+
+## 接口请求
+
