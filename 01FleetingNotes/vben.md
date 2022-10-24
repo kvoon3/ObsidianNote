@@ -113,3 +113,46 @@ export const prefixCls = "vben";
 > - 除了一级路由对应的 path 前需要加上 `/` ，其余子路由都不要以 `/` 开头
 
 
+## 多标签页
+
+标签页使用的是 `keep-alive` 和 `router-view` 实现，实现切换 tab 后还能保存切换之前的状态
+
+### 开启页面缓存
+
+开启缓存的三个前提条件
+
+1. 在 `src/settings/projectSetting.ts` 内将 `openKeepAlive` 设置为 true (什么是[[keep-alive]])
+2. 路由设置 `name` 且不能重复
+3. 路由 `name` < -- > 组件 `name` 两者保持一致
+	1. > [!attention] 注意
+	2. > 因为 include - 只会匹配对应 name 的组件
+
+### 配置单页不缓存
+
+**可在 router.meta 下配置**
+
+可以将 `ignoreKeepAlive` 配置成 `true` 即可关闭缓存。
+
+```ts
+export interface RouteMeta {
+  // 是否忽略KeepAlive缓存
+  ignoreKeepAlive?: boolean;
+}
+```
+
+### 首页路由
+
+**定义**
+
+- 程序中的默认路由，所有未匹配到的路由，会自动重定向到该路由下
+
+**修改**
+
+```ts
+export enum PageEnum {
+	BASE_HOME = "/dashboard"
+}
+```
+
+## 菜单
+

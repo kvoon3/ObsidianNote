@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca17c23b133279b3",
+            "id": "19387f5bcfb54f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,14 +168,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ca17c23b133279b3",
+  "active": "19387f5bcfb54f5f",
   "lastOpenFiles": [
-    "01FleetingNotes/未命名.md",
+    "01FleetingNotes/keep-alive.md",
     "01FleetingNotes/vben.md",
     "Excalidraw/Drawing 2022-10-24 11.11.25.excalidraw.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md",
