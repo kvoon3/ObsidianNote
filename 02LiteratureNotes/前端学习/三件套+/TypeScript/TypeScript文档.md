@@ -6,4 +6,4 @@
 ---
 未处理文件
 
-![[../../../img/TypeScript_img/Pasted image 20220406211357.png|400]]
+![[../../img/TypeScript_img/Pasted image 20220406211357.png|400]]
