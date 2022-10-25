@@ -232,6 +232,8 @@ axios 请求封装在 `src/utils/http/axios` 文件夹中
 -  `ckeckStatus.ts` 返回状态值校验
 - `index.ts` 接口返回统一处理
 
+### index.ts 配置说明
+
 **transform 数据处理说明**
 
 [详细信息](https://vvbin.cn/doc-next/guide/mock.html#index-ts-%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E)
@@ -242,9 +244,116 @@ export default class AxiosTransform {
 	// 请求之前处理配置
 	// 请求成功处理
 	// 请求失败处理
+
 	// 请求拦截器
-	// 响应拦截器
 	// 请求拦截器错误处理
+
+	// 响应拦截器
 	// 响应拦截器错误处理	
 }
 ```
+
+### 修改参数格式
+
+项目接口默认为 `json`  参数格式，即
+
+```ts
+{
+	'Content-Type': ContentTypeEnum.JSON
+}
+```
+
+### 多个接口地址
+
+当项目中需要用到多个接口地址时，可以在 `src/utils/http/axios/index.ts` 导出多个 axios 实例
+
+```ts
+// 默认为一个实例，接口地址对应的是环境变量中的 VITE_GLOB_API_URL
+export const defHttp = createAxios();
+
+// other api url
+export const otherHttp = createAxios({
+	requestOptions: {
+		apiUrl:"xxx",
+	}
+})
+```
+
+### 删除请求 URL 携带的时间戳参数
+
+如果不需要 `url` 上面默认携带的时间戳参数 `?_t=xxx`
+
+```ts
+const axios = VAxios({
+	requestOptions:{
+		// 是否加入时间戳
+		joinTime: false,
+	}
+})
+```
+
+## mock 服务
+
+### 本地
+
+#### 新增 mock 接口
+
+```ts
+import { MockMethod } from "vite-plugin-mock";
+import { resultPageSuccess } from "../util";
+
+const demoList = (() => {
+	const result: any[] = [];
+	for(let index = 0; index < 60; index++){
+		result.push({
+			id: `${index}`,
+			beginTime: '@datetime',
+			endTime: '@datetime',
+			address: `@city()`,
+			name: '@cname()',
+			'no|100000-100000000': 100000,
+			'status|1': ['正常', '启用', '停用'],
+		})
+	}
+	return result;
+})()
+
+export default [
+	{
+		url: '/api/table/getDemoList',
+		timeout: 1000,
+		method: 'get',
+		response: ({ query }) => {
+				cosnt { page = 1, pageSize = 20 } = query;
+				return resultPageSuccess(page, pageSize, demoList);
+		}	
+	}
+] as MockMethod[];
+```
+
+#### mock 方法的参数获取
+
+GET 接口：`({ query }) => { }`
+
+POST 接口：`({ body }) => { }`
+
+#### 去除 mock
+
+删除/注释掉 MockMethod
+
+### 线上
+
+#### 开启 mock
+
+> [!warning] 注意
+> 只适用于一些简单的示例网站和预览网站。**不要在生产环境开启**
+
+[vben 文档](https://vvbin.cn/doc-next/guide/mock.html#%E7%BA%BF%E4%B8%8A-mock)
+
+---
+
+# 样式
+
+## intro
+
+预处理语言：less
