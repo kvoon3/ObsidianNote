@@ -29,3 +29,5 @@ window.onresize = debounce(
 ```ts
 <script type="module" src="/src//utils/rem.ts"></script>
 ```
+
+引入 `normalize.css`
