@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/map.md",
+                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "怪异盒",
+                "query": "溢出",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/map.md",
+                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/map.md"
+                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md"
               }
             }
           },
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/map.md",
+                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,6 +202,7 @@
   },
   "active": "8b6859883ec0d615",
   "lastOpenFiles": [
+    "01FleetingNotes/map.md",
     "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/06 处理 css.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/05 环境变量.md",
@@ -209,7 +211,6 @@
     "02LiteratureNotes/前端学习/前端工程化/vite/01 脚手架.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/07 postcss.md",
-    "01FleetingNotes/vite rem 适配.md",
-    "02LiteratureNotes/前端学习/前端工程化/postcss/00 intro.md"
+    "01FleetingNotes/vite rem 适配.md"
   ]
 }
