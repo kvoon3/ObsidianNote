@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/vite rem 适配.md",
+                "file": "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8b6859883ec0d615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01FleetingNotes/map.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "插件",
+                "query": "怪异盒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/vite rem 适配.md",
+                "file": "01FleetingNotes/map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/vite rem 适配.md"
+                "file": "01FleetingNotes/map.md"
               }
             }
           },
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/vite rem 适配.md",
+                "file": "01FleetingNotes/map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +199,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a010d78a8383856d",
+  "active": "8b6859883ec0d615",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md",
+    "02LiteratureNotes/前端学习/前端工程化/vite/06 处理 css.md",
+    "02LiteratureNotes/前端学习/前端工程化/vite/05 环境变量.md",
+    "02LiteratureNotes/前端学习/前端工程化/vite/04 配置文件处理.md",
+    "02LiteratureNotes/前端学习/前端工程化/vite/03 开始.md",
+    "02LiteratureNotes/前端学习/前端工程化/vite/01 脚手架.md",
+    "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/07 postcss.md",
-    "02LiteratureNotes/前端学习/前端工程化/postcss/00 intro.md",
-    "01FleetingNotes/vben.md",
-    "02LiteratureNotes/前端学习/三件套+/预处理/less/@import引入规则/00 intro.md",
-    "02LiteratureNotes/前端学习/三件套+/深度选择器.md",
-    "02LiteratureNotes/前端学习/三件套+/ES5/展开运算符.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/函数/重载.md",
-    "02LiteratureNotes/前端学习/设计模式/01设计模式（23）/创造型/单例模式/00 index.md",
-    "02LiteratureNotes/前端学习/小程序/vant/自定义主题.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/高级类型/Absolute.md"
+    "01FleetingNotes/vite rem 适配.md",
+    "02LiteratureNotes/前端学习/前端工程化/postcss/00 intro.md"
   ]
 }
