@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "843b00308be38197",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4893d6f0e11c93ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d2084957131f7bf8",
             "type": "leaf",
             "state": {
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,15 +173,15 @@
   },
   "active": "d2084957131f7bf8",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/颜色.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/字体.md",
     "颜色.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md",
     "01FleetingNotes/长按事件.md",
     "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
-    "01FleetingNotes/map.md",
-    "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md"
+    "01FleetingNotes/map.md"
   ]
 }
