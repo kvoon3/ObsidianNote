@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/暗黑模式.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "714f595d4b50791d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/暗黑模式.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/暗黑模式.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md"
               }
             }
           },
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/暗黑模式.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,17 +198,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "9443ed05b870ce13",
+  "active": "714f595d4b50791d",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件/未命名.md",
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/暗黑模式.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/dark.md",
     "02LiteratureNotes/前端学习/三件套+/Hero Patterns.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/颜色.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/字体.md",
-    "颜色.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md",
-    "01FleetingNotes/长按事件.md"
+    "颜色.md"
   ]
 }
