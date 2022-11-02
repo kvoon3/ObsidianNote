@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +172,7 @@
   },
   "active": "843b00308be38197",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md",
     "01FleetingNotes/长按事件.md",
     "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
     "01FleetingNotes/map.md",
@@ -181,7 +181,6 @@
     "02LiteratureNotes/前端学习/前端工程化/vite/05 环境变量.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/04 配置文件处理.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/03 开始.md",
-    "02LiteratureNotes/前端学习/前端工程化/vite/01 脚手架.md",
-    "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md"
+    "02LiteratureNotes/前端学习/前端工程化/vite/01 脚手架.md"
   ]
 }
