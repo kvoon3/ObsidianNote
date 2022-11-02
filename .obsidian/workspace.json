@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d2084957131f7bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md"
               }
             }
           },
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +198,11 @@
     "width": 359.5,
     "collapsed": true
   },
-  "active": "4893d6f0e11c93ef",
+  "active": "d2084957131f7bf8",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/颜色.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/字体.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
     "颜色.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/00 3 main part.md",
