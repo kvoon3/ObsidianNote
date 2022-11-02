@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2084957131f7bf8",
+            "id": "7ad1cbb3e839f7cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Hero Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Hero Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/Hero Patterns.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Hero Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,13 +167,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
+    "width": 200,
     "collapsed": true
   },
-  "active": "d2084957131f7bf8",
+  "active": "f1bf3ae1a59410c9",
   "lastOpenFiles": [
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/响应式/intro.md",
+    "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/temp.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/颜色.md",
     "02LiteratureNotes/前端学习/三件套+/tailwindcss/自定义/字体.md",

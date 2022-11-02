@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBrush",
       "SiObsidian",
       "SiApacheecharts",
       "SiTypescript",
-      "SiTailwindcss",
-      "SiSass"
+      "SiTailwindcss"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,6 @@
   "02LiteratureNotes/前端学习/三件套+/TypeScript": "SiTypescript",
   "02LiteratureNotes/前端学习/可视化/echart": "SiApacheecharts",
   "02LiteratureNotes/Obisidian相关": "SiObsidian",
-  "02LiteratureNotes/前端学习/三件套+/tailwindcss": "SiTailwindcss"
+  "02LiteratureNotes/前端学习/三件套+/tailwindcss": "SiTailwindcss",
+  "02LiteratureNotes/前端学习/三件套+/Hero Patterns.md": "FasBrush"
 }
