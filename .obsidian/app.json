@@ -22,5 +22,6 @@
   "tabSize": 2,
   "showUnsupportedFiles": false,
   "fileSortOrder": "alphabetical",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "newFileLocation": "current"
 }
