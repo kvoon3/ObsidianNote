@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/允许事件穿透.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "溢出",
+                "query": "typeof keyof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/允许事件穿透.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/允许事件穿透.md"
+                "file": "01FleetingNotes/map/地址.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/允许事件穿透.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +186,15 @@
   },
   "active": "995adb015b19e4b4",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/extends/条件类型与高级类型.md",
+    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/高级类型/Pick.md",
+    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/keyof typeof.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/允许事件穿透.md",
     "02LiteratureNotes/军队文职/粉笔/判断推理/数量特征.md",
     "02LiteratureNotes/军队文职/粉笔/判断推理/翻译推理.md",
     "02LiteratureNotes/军队文职/粉笔/判断推理/常考主客体.md",
     "01FleetingNotes/map/地址.md",
     "01FleetingNotes/map/未命名.md",
-    "01FleetingNotes/todo.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@variants.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/函数与指令/@layer.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件/未命名.md"
+    "01FleetingNotes/todo.md"
   ]
 }
