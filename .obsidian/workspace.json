@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -88,12 +88,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 477.5,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md"
+                "file": "01FleetingNotes/map/地址.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,8 @@
   },
   "active": "995adb015b19e4b4",
   "lastOpenFiles": [
-    "01FleetingNotes/map/地址.md",
     "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
+    "01FleetingNotes/map/地址.md",
     "02LiteratureNotes/前端学习/三件套/02CSS/布局/flex布局/01常用属性.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/extends/条件类型与高级类型.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/高级类型/Pick.md",
