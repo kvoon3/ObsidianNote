@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "70afb3efb42c900d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01FleetingNotes/vue3 watch arr.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5,
-    "collapsed": true
+    "width": 477.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/map/地址.md",
+                "file": "01FleetingNotes/vue3 watch arr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/map/地址.md"
+                "file": "01FleetingNotes/vue3 watch arr.md"
               }
             }
           },
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/map/地址.md",
+                "file": "01FleetingNotes/vue3 watch arr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +197,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "995adb015b19e4b4",
+  "active": "70afb3efb42c900d",
   "lastOpenFiles": [
-    "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
     "01FleetingNotes/map/地址.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
     "02LiteratureNotes/前端学习/三件套/02CSS/布局/flex布局/01常用属性.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/extends/条件类型与高级类型.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/高级类型/Pick.md",
