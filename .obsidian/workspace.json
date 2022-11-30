@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "6dbbfdaafd6fb141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/map/地址.md",
+                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/map/地址.md"
+                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md"
               }
             }
           },
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/map/地址.md",
+                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +184,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "5c47de484e7db9e9",
+  "active": "6dbbfdaafd6fb141",
   "lastOpenFiles": [
-    "01FleetingNotes/cypress/cypress.md",
     "01FleetingNotes/map/地址.md",
+    "01FleetingNotes/cypress/cypress.md",
     "02LiteratureNotes/前端学习/三件套/03JavaScript/JS高级/防抖与节流/节流防抖的原理与基本实现.md",
     "02LiteratureNotes/前端学习/三件套+/深度选择器.md",
     "01FleetingNotes/vue3 watch arr.md",
