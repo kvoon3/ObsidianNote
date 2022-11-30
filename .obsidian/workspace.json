@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/cypress/cypress.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/cypress/cypress.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/cypress/cypress.md"
+                "file": "01FleetingNotes/map/地址.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/cypress/cypress.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +173,7 @@
   },
   "active": "5c47de484e7db9e9",
   "lastOpenFiles": [
+    "01FleetingNotes/cypress/cypress.md",
     "01FleetingNotes/map/地址.md",
     "02LiteratureNotes/前端学习/三件套/03JavaScript/JS高级/防抖与节流/节流防抖的原理与基本实现.md",
     "02LiteratureNotes/前端学习/三件套+/深度选择器.md",
@@ -181,7 +182,6 @@
     "02LiteratureNotes/前端学习/三件套/02CSS/布局/flex布局/01常用属性.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/extends/条件类型与高级类型.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/高级类型/Pick.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/keyof typeof.md",
-    "02LiteratureNotes/前端学习/三件套/02CSS/允许事件穿透.md"
+    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/keyof typeof.md"
   ]
 }
