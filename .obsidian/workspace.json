@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c47de484e7db9e9",
+            "id": "c718ce84b7c2aabb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/map/地址.md",
+                "file": "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6dbbfdaafd6fb141",
+            "id": "f8734211ce187248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md",
+                "file": "soundWare.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 345.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md",
+                "file": "soundWare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md"
+                "file": "soundWare.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/ES_TS/TypeScript/拓展window声明.md",
+                "file": "soundWare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,20 +181,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "6dbbfdaafd6fb141",
+  "active": "f8734211ce187248",
   "lastOpenFiles": [
-    "01FleetingNotes/map/地址.md",
+    "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/intro.md",
+    "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/处理方法/箭头函数.md",
+    "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/处理方法/bind.md",
+    "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/处理方法/00index.md",
+    "02LiteratureNotes/前端学习/框架/React/脚手架/脚手架基础.md",
     "01FleetingNotes/cypress/cypress.md",
-    "02LiteratureNotes/前端学习/三件套/03JavaScript/JS高级/防抖与节流/节流防抖的原理与基本实现.md",
-    "02LiteratureNotes/前端学习/三件套+/深度选择器.md",
-    "01FleetingNotes/vue3 watch arr.md",
-    "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
-    "02LiteratureNotes/前端学习/三件套/02CSS/布局/flex布局/01常用属性.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/extends/条件类型与高级类型.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/高级类型/Pick.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/00类型/keyof typeof.md"
+    "soundWare.md",
+    "Tasks.md",
+    "01FleetingNotes/map/地址.md",
+    "02LiteratureNotes/前端学习/框架/React/Redux/react-redux/01基本使用.md"
   ]
 }
