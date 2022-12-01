@@ -1,8 +1,8 @@
 ### bind
 
-```jsx
-class Header extends React.Component {
-	constructor(props){
+```tsx
+class Header extends React.Component<Props, State> {
+	constructor(props:Props){
 		super(props)
 		this.run = this.run.bind(this)	
 	}
