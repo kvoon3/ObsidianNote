@@ -45,9 +45,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d70d41923a5a4d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/merge.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/merge.md"
               }
             }
           },
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +209,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "963556c2e346d3eb",
+  "active": "d70d41923a5a4d9c",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concat.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/pipe.md",
     "02LiteratureNotes/前端学习/三件套+/img/Pasted image 20221206104627.png",
@@ -206,7 +220,6 @@
     "01FleetingNotes/map/地址.md",
     "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/处理方法/箭头函数.md",
     "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/处理方法/bind.md",
-    "soundWare.md",
-    "02LiteratureNotes/前端学习/框架/React/事件处理/this 指向问题/intro.md"
+    "soundWare.md"
   ]
 }
