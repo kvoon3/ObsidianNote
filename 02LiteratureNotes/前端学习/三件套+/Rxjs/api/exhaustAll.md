@@ -1,4 +1,6 @@
-> 在当前内部 Observable 仍在执行的情况下，通过丢弃接下来的内部 Observable 将高阶 Observable 打平。
+> 与 [[switchAll]]相反，exhaustAll 在当前内部 Observable 仍在执行的情况下，通过丢弃接下来的内部 Observable 将高阶 Observable 打平。
+
+
 
 ![[../../img/Pasted image 20221206144814.png]]
 
