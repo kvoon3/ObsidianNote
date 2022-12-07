@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "dc7b4519af0b500f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/intro.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "becb0a5a9935c654",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/groupBy.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/groupBy.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/intro.md"
               }
             }
           },
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/groupBy.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +235,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "24f80d5aced41a31",
+  "active": "dc7b4519af0b500f",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/groupBy.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatMap.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/pipe.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/exhaustAll.md",
@@ -232,7 +246,6 @@
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/未命名.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/switchAll.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/exhaust(废弃).md",
-    "exhaust.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md"
+    "exhaust.md"
   ]
 }
