@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md",
+                "file": "01FleetingNotes/长按事件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
+    "width": 387.50418853759766,
     "collapsed": true
   },
   "right": {
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md",
+                "file": "01FleetingNotes/长按事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md"
+                "file": "01FleetingNotes/长按事件.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md",
+                "file": "01FleetingNotes/长按事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,16 +168,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "active": "448785dc98854fbc",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/distinct.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/exhaustAll.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/switchAll.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/share.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/merge.md",
     "02LiteratureNotes/军队文职/劳动合同法/intro.md",
     "02LiteratureNotes/军队文职/马克思主义政治经济学/intro.md",
