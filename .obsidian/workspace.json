@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/长按事件.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/长按事件.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/长按事件.md"
+                "file": "01FleetingNotes/map/地址.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/长按事件.md",
+                "file": "01FleetingNotes/map/地址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +173,7 @@
   },
   "active": "448785dc98854fbc",
   "lastOpenFiles": [
+    "01FleetingNotes/长按事件.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/distinct.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/exhaustAll.md",
@@ -181,7 +182,6 @@
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/merge.md",
     "02LiteratureNotes/军队文职/劳动合同法/intro.md",
     "02LiteratureNotes/军队文职/马克思主义政治经济学/intro.md",
-    "02LiteratureNotes/军队文职/社会主义市场经济/intro.md",
-    "soundWare.md"
+    "02LiteratureNotes/军队文职/社会主义市场经济/intro.md"
   ]
 }
