@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/项目/技术点.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tailwind",
+                "query": "tail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/项目/技术点.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/项目/技术点.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/项目/技术点.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +186,15 @@
   },
   "active": "aba9858d044068c6",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套+/预处理/Tailwindcss/容器.md",
     "01FleetingNotes/map/地址.md",
-    "01FleetingNotes/长按事件.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/tap.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/distinct.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/exhaustAll.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/switchAll.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/share.md",
-    "02LiteratureNotes/前端学习/三件套+/Rxjs/api/merge.md",
-    "02LiteratureNotes/军队文职/劳动合同法/intro.md",
-    "02LiteratureNotes/军队文职/马克思主义政治经济学/intro.md"
+    "02LiteratureNotes/前端学习/可视化/echart/echart.md",
+    "02LiteratureNotes/前端学习/可视化/canvas/canvas基本使用.md",
+    "02LiteratureNotes/前端学习/函数式编程/img/Pasted image 20220930174827.png",
+    "02LiteratureNotes/前端学习/测试/驱动开发/BDD.md",
+    "02LiteratureNotes/前端学习/测试/驱动开发/对比.md",
+    "01FleetingNotes/vue3 watch arr.md",
+    "01FleetingNotes/vite rem 适配.md",
+    "01FleetingNotes/vben.md"
   ]
 }
