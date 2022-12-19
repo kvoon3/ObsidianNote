@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿.md",
+                "file": "01FleetingNotes/vue3 watch arr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -105,14 +105,6 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "c708efca862a33b7",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -134,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿.md",
+                "file": "01FleetingNotes/vue3 watch arr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿.md"
+                "file": "01FleetingNotes/vue3 watch arr.md"
               }
             }
           },
@@ -185,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿.md",
+                "file": "01FleetingNotes/vue3 watch arr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,20 +199,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "active": "6d628671462bcb53",
   "lastOpenFiles": [
-    "未命名.md",
-    "02LiteratureNotes/前端学习/vim/未命名.md",
-    "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
-    "02LiteratureNotes/前端学习/三件套+/预处理/Tailwindcss/容器.md",
+    "01FleetingNotes/vite rem 适配.md",
+    "01FleetingNotes/vue3 watch arr.md",
+    "01FleetingNotes/vben.md",
+    "01FleetingNotes/todo.md",
+    "01FleetingNotes/cypress/cypress.md",
+    "01FleetingNotes/img/Pasted image 20221024111723.png",
+    "01FleetingNotes/map/未命名.md",
     "01FleetingNotes/map/地址.md",
-    "02LiteratureNotes/前端学习/可视化/echart/echart.md",
-    "02LiteratureNotes/前端学习/可视化/canvas/canvas基本使用.md",
-    "02LiteratureNotes/前端学习/函数式编程/img/Pasted image 20220930174827.png",
-    "02LiteratureNotes/前端学习/测试/驱动开发/BDD.md",
-    "02LiteratureNotes/前端学习/测试/驱动开发/对比.md"
+    "01FleetingNotes/长按事件.md",
+    "01FleetingNotes/keep-alive.md"
   ]
 }
