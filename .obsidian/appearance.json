@@ -1,10 +1,10 @@
 {
   "monospaceFontFamily": "Lucida Console,DejaVu Sans Mono",
-  "textFontFamily": "微软雅黑,得意黑,黑体",
+  "textFontFamily": "苹方-简,微软雅黑,得意黑,黑体",
   "baseFontSize": 20,
   "cssTheme": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "苹方-简,Inter",
   "enabledCssSnippets": [
     "myStyle"
   ],
