@@ -8,59 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "448785dc98854fbc",
+            "id": "0d5e5c386fb24f29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/map/地址.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aba9858d044068c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/tailwindcss/插件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5f0805482da36f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d628671462bcb53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01FleetingNotes/vue3 watch arr.md",
+                "file": "01FleetingNotes/BEM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.50418853759766
+    "width": 387.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -126,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/vue3 watch arr.md",
+                "file": "01FleetingNotes/BEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/vue3 watch arr.md"
+                "file": "01FleetingNotes/BEM.md"
               }
             }
           },
@@ -177,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/vue3 watch arr.md",
+                "file": "01FleetingNotes/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +160,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "6d628671462bcb53",
+  "active": "0d5e5c386fb24f29",
   "lastOpenFiles": [
-    "未命名.md",
     "01FleetingNotes/vue3 watch arr.md",
+    "未命名.md",
     "01FleetingNotes/vite rem 适配.md",
     "01FleetingNotes/vben.md",
     "01FleetingNotes/todo.md",
