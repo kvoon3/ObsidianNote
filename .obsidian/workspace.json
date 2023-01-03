@@ -15,8 +15,8 @@
               "state": {
                 "file": "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
                 "viewState": {
-                  "x": -89.5,
-                  "y": -50,
+                  "x": 261.5,
+                  "y": 2.6500205993652344,
                   "zoom": 0,
                   "snapToGrid": true
                 }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/军队文职/毛中特/毛中特1.md",
+                "file": "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/军队文职/毛中特/毛中特1.md"
+                "file": "02LiteratureNotes/军队文职/毛中特/毛中特.canvas"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/军队文职/毛中特/毛中特1.md",
+                "file": "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
