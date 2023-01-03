@@ -24,9 +24,12 @@
             "id": "ad24655d70c622f5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "02LiteratureNotes/军队文职/社会主义市场经济/intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -81,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.50418853759766,
-    "collapsed": true
+    "width": 387.50418853759766
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "02LiteratureNotes/军队文职/社会主义市场经济/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/BEM.md"
+                "file": "02LiteratureNotes/军队文职/社会主义市场经济/intro.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "02LiteratureNotes/军队文职/社会主义市场经济/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,6 +193,8 @@
   },
   "active": "ad24655d70c622f5",
   "lastOpenFiles": [
+    "02LiteratureNotes/军队文职/马克思主义政治经济学/intro.md",
+    "01FleetingNotes/长按事件.md",
     "01FleetingNotes/vue3 watch arr.md",
     "未命名.md",
     "01FleetingNotes/vite rem 适配.md",
@@ -198,8 +202,6 @@
     "01FleetingNotes/todo.md",
     "01FleetingNotes/cypress/cypress.md",
     "01FleetingNotes/img/Pasted image 20221024111723.png",
-    "01FleetingNotes/map/未命名.md",
-    "01FleetingNotes/map/地址.md",
-    "01FleetingNotes/长按事件.md"
+    "01FleetingNotes/map/未命名.md"
   ]
 }
