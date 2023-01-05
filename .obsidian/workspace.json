@@ -22,8 +22,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "d0d86cdd9ebacaaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01FleetingNotes/管理台.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -90,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
+                "file": "01FleetingNotes/管理台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/军队文职/毛中特/毛中特.canvas"
+                "file": "01FleetingNotes/管理台.md"
               }
             }
           },
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
+                "file": "01FleetingNotes/管理台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,11 +194,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ad24655d70c622f5",
+  "active": "d0d86cdd9ebacaaa",
   "lastOpenFiles": [
+    "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
     "02LiteratureNotes/军队文职/毛中特/毛中特1.md",
     "01FleetingNotes/BEM.md",
-    "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
     "02LiteratureNotes/军队文职/社会主义市场经济/intro.md",
     "02LiteratureNotes/军队文职/马克思主义政治经济学/intro.md",
     "01FleetingNotes/长按事件.md",
