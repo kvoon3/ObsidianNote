@@ -37,18 +37,15 @@
             }
           },
           {
-            "id": "1123a3bc024a8fe9",
+            "id": "fbe6190a288369c4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/未命名.canvas",
-                "viewState": {
-                  "x": -433.83818523906086,
-                  "y": 1518.9991748943035,
-                  "zoom": 1.1102230246251565e-16,
-                  "snapToGrid": false
-                }
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/装饰器.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/未命名.canvas",
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/装饰器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/未命名.canvas"
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/装饰器.md"
               }
             }
           },
@@ -170,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/未命名.canvas",
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/装饰器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +206,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1123a3bc024a8fe9",
+  "active": "fbe6190a288369c4",
   "lastOpenFiles": [
     "01FleetingNotes/管理台.md",
     "01FleetingNotes/未命名.canvas",

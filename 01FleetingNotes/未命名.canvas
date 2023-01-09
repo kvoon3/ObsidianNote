@@ -13,7 +13,7 @@
 		{"id":"b86928b5c9f68918","x":349,"y":401,"width":250,"height":224,"type":"text","text":"-  酒类\n-  调料类\n-  零食类\n-  日用品类\n- 文具类\n- 粮油类"},
 		{"id":"03ac43bb336720a9","x":662,"y":401,"width":250,"height":280,"type":"text","text":"- 零食\n-  酒类\n-  调料类\n-  粮油\n-  \n- 文具类\n- 日用品类"},
 		{"id":"8eafb946e752c5e4","x":972,"y":401,"width":250,"height":280,"type":"text","text":"-  酒类\n-  调料类\n-  \n-  零食\n- 文具类\n- 日用品类\n- 粮油"},
-		{"id":"ec94a00abe5e61a3","x":-762,"y":1367,"width":605,"height":354,"type":"text","text":""}
+		{"id":"ec94a00abe5e61a3","x":-762,"y":1367,"width":605,"height":354,"type":"text","text":"```ts\nconsole.log()\n```"}
 	],
 	"edges":[
 		{"id":"5b24b70e3f8fe8de","fromNode":"eed7c6bf8e84ec8d","fromSide":"bottom","toNode":"99024e2c3b1e3779","toSide":"top"},
