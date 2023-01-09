@@ -35,9 +35,25 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1123a3bc024a8fe9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01FleetingNotes/未命名.canvas",
+                "viewState": {
+                  "x": -433.83818523906086,
+                  "y": 1518.9991748943035,
+                  "zoom": 1.1102230246251565e-16,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/管理台.md",
+                "file": "01FleetingNotes/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/管理台.md"
+                "file": "01FleetingNotes/未命名.canvas"
               }
             }
           },
@@ -154,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/管理台.md",
+                "file": "01FleetingNotes/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +187,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,17 +209,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d0d86cdd9ebacaaa",
+  "active": "1123a3bc024a8fe9",
   "lastOpenFiles": [
+    "01FleetingNotes/管理台.md",
+    "01FleetingNotes/未命名.canvas",
+    "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
     "02LiteratureNotes/前端学习/项目/技术点.md",
     "02LiteratureNotes/前端学习/项目/公司git.md",
-    "01FleetingNotes/管理台.md",
-    "02LiteratureNotes/军队文职/毛中特/毛中特.canvas",
     "02LiteratureNotes/军队文职/毛中特/毛中特1.md",
     "01FleetingNotes/BEM.md",
     "02LiteratureNotes/军队文职/社会主义市场经济/intro.md",
     "02LiteratureNotes/军队文职/马克思主义政治经济学/intro.md",
-    "01FleetingNotes/长按事件.md",
-    "01FleetingNotes/vue3 watch arr.md"
+    "01FleetingNotes/长按事件.md"
   ]
 }

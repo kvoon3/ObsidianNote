@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"881153bdb904ff82","x":-274,"y":-540,"width":250,"height":155,"type":"text","text":"- 零食类\n-  \n-  \n- 粮油类"},
+		{"id":"eed7c6bf8e84ec8d","x":-803,"y":10,"width":250,"height":222,"type":"text","text":"- 日用品类\n- 文具类\n-  \n- 酒类\n-  调料类"},
+		{"id":"a646fa6749b70d58","x":-439,"y":10,"width":250,"height":222,"type":"text","text":"- 文具类\n- 日用品类\n-  \n- 酒类\n-  调料类"},
+		{"id":"076d54f17d1675d3","x":-107,"y":10,"width":250,"height":224,"type":"text","text":"-  酒类\n-  调料类\n-  \n-  日用品类\n- 文具类"},
+		{"id":"fa845b641b4e4276","x":286,"y":8,"width":250,"height":238,"type":"text","text":"-  酒类\n-  调料类\n-  \n-  \n- 文具类\n- 日用品类"},
+		{"id":"99024e2c3b1e3779","x":-1206,"y":388,"width":250,"height":235,"type":"text","text":"- 零食类\n- 日用品类\n- 文具类\n-  粮油类\n- 酒类\n-  调料类"},
+		{"id":"38dfe66eadbdc629","x":-928,"y":384,"width":250,"height":235,"type":"text","text":"- 日用品类\n- 文具类\n-  零食类\n- 酒类\n-  调料类\n- 粮油类"},
+		{"id":"6ec6ba12f18530f8","x":-619,"y":401,"width":250,"height":222,"type":"text","text":"- 零食类\n- 文具类\n- 日用品类\n-  粮油类\n- 酒类\n-  调料类"},
+		{"id":"74912d407649576e","x":-314,"y":401,"width":250,"height":222,"type":"text","text":"- 文具类\n- 日用品类\n-  零食类\n- 酒类\n-  调料类\n- 粮油类"},
+		{"id":"9938730ea87b58ac","x":18,"y":401,"width":250,"height":224,"type":"text","text":"- 零食类\n-  酒类\n-  调料类\n-  粮油类\n-  日用品类\n- 文具类"},
+		{"id":"b86928b5c9f68918","x":349,"y":401,"width":250,"height":224,"type":"text","text":"-  酒类\n-  调料类\n-  零食类\n-  日用品类\n- 文具类\n- 粮油类"},
+		{"id":"03ac43bb336720a9","x":662,"y":401,"width":250,"height":280,"type":"text","text":"- 零食\n-  酒类\n-  调料类\n-  粮油\n-  \n- 文具类\n- 日用品类"},
+		{"id":"8eafb946e752c5e4","x":972,"y":401,"width":250,"height":280,"type":"text","text":"-  酒类\n-  调料类\n-  \n-  零食\n- 文具类\n- 日用品类\n- 粮油"},
+		{"id":"ec94a00abe5e61a3","x":-762,"y":1367,"width":605,"height":354,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"5b24b70e3f8fe8de","fromNode":"eed7c6bf8e84ec8d","fromSide":"bottom","toNode":"99024e2c3b1e3779","toSide":"top"},
+		{"id":"5d4e8b6a218a6745","fromNode":"eed7c6bf8e84ec8d","fromSide":"bottom","toNode":"38dfe66eadbdc629","toSide":"top"},
+		{"id":"468567ee1ceebc78","fromNode":"a646fa6749b70d58","fromSide":"bottom","toNode":"6ec6ba12f18530f8","toSide":"top"},
+		{"id":"78b9a42bcd83b4e5","fromNode":"a646fa6749b70d58","fromSide":"bottom","toNode":"74912d407649576e","toSide":"top"},
+		{"id":"3c95f9674c347f40","fromNode":"076d54f17d1675d3","fromSide":"bottom","toNode":"9938730ea87b58ac","toSide":"top"},
+		{"id":"b3a9d3ae94cd52d8","fromNode":"076d54f17d1675d3","fromSide":"bottom","toNode":"b86928b5c9f68918","toSide":"top"},
+		{"id":"11d8ef117e8dc43d","fromNode":"fa845b641b4e4276","fromSide":"bottom","toNode":"03ac43bb336720a9","toSide":"top"},
+		{"id":"d2363beeae31085c","fromNode":"fa845b641b4e4276","fromSide":"bottom","toNode":"8eafb946e752c5e4","toSide":"top"}
+	]
+}
