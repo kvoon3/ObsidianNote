@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21eaaa4030c2c7da",
+            "id": "e1ef5e9169a966f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/http/intro.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/http/intro.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/http/intro.md"
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/http/intro.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "21eaaa4030c2c7da",
+  "active": "e1ef5e9169a966f4",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/未命名.md",
     "02LiteratureNotes/前端学习/网络/cookie_session_token/token/实现token无感刷新.md",
     "02LiteratureNotes/前端学习/网络/cookie_session_token/cookie.md",
@@ -186,8 +188,6 @@
     "02LiteratureNotes/前端学习/服务端/nestjs/RESTful.md",
     "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/00 intro 装饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/方法装饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/访问器装饰器.md",
-    "02LiteratureNotes/前端学习/设计模式/00设计模式原则/06-D依赖倒转原则.md"
+    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/方法装饰器.md"
   ]
 }
