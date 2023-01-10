@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiNodedotjsWhite",
       "SiNestjs",
       "SiCypress",
       "FasBrush",
-      "SiObsidian",
-      "SiApacheecharts"
+      "SiObsidian"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,7 @@
   "02LiteratureNotes/前端学习/三件套+/tailwindcss": "SiTailwindcss",
   "02LiteratureNotes/前端学习/三件套+/Hero Patterns.md": "FasBrush",
   "01FleetingNotes/cypress": "SiCypress",
-  "02LiteratureNotes/前端学习/服务端/nestjs": "SiNestjs"
+  "02LiteratureNotes/前端学习/服务端/nestjs": "SiNestjs",
+  "02LiteratureNotes/前端学习/服务端": "SiNodedotjsWhite",
+  "02LiteratureNotes/前端学习/服务端/nodejs": "SiNodedotjsWhite"
 }
