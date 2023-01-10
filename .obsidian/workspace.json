@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/00 intro 装饰器.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e9226a349bfd9512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/方法装饰器.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0e805e41c1a55bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/访问器装饰器.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tail",
+                "query": "设计模式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/访问器装饰器.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/访问器装饰器.md"
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md"
               }
             }
           },
@@ -164,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/访问器装饰器.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,17 +176,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0e805e41c1a55bcc",
+  "active": "fbe6190a288369c4",
   "lastOpenFiles": [
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/类装饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/参数装饰器.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/00 intro 装饰器.md",
-    "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md",
     "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/方法装饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/00修饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/属性装饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/装饰器工厂.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/属性装饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/访问器装饰器.md"
+    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/访问器装饰器.md",
+    "02LiteratureNotes/前端学习/设计模式/00设计模式原则/06-D依赖倒转原则.md",
+    "02LiteratureNotes/前端学习/设计模式/控制反转 依赖注入.md",
+    "02LiteratureNotes/前端学习/设计模式/00设计模式原则/00设计模式原则.md",
+    "02LiteratureNotes/前端学习/面试题/前端面试500题/二阶段面试题/二阶段面试题.md",
+    "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md",
+    "02LiteratureNotes/前端学习/服务端/nestjs/RESTful.md",
+    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/类装饰器.md"
   ]
 }
