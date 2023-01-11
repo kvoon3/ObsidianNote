@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "中间层",
+      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md"
+    },
+    {
+      "basename": "服务端",
+      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端.md"
+    },
+    {
+      "basename": "2023-01-11",
+      "path": "日记/2023-01-11.md"
+    },
+    {
       "basename": "未命名",
       "path": "01FleetingNotes/未命名.md"
     },
@@ -102,5 +114,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

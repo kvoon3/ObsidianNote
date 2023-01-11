@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBook",
       "SiNodedotjsWhite",
       "SiNestjs",
       "SiCypress",
-      "FasBrush",
-      "SiObsidian"
+      "FasBrush"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,6 @@
   "01FleetingNotes/cypress": "SiCypress",
   "02LiteratureNotes/前端学习/服务端/nestjs": "SiNestjs",
   "02LiteratureNotes/前端学习/服务端": "SiNodedotjsWhite",
-  "02LiteratureNotes/前端学习/服务端/nodejs": "SiNodedotjsWhite"
+  "02LiteratureNotes/前端学习/服务端/nodejs": "SiNodedotjsWhite",
+  "日记": "FasBook"
 }

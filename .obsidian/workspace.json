@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51de45dcc60497c0",
+        "id": "0e77446e815ef147",
         "type": "tabs",
         "children": [
           {
-            "id": "02b2a2c45e0ff442",
+            "id": "a4f8e01701697b9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,6 +63,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c38124c178c5f66",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -173,20 +181,22 @@
       "zk-prefixer:创建时间戳笔记": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false
     }
   },
-  "active": "02b2a2c45e0ff442",
+  "active": "f1bf3ae1a59410c9",
   "lastOpenFiles": [
-    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/未命名.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端.md",
+    "日记/2023-01-11.md",
     "草稿.md",
     "02LiteratureNotes/Obisidian相关/YAML格式.md",
     "02LiteratureNotes/前端学习/网络/跨域问题/代理服务器解决.md",
     "02LiteratureNotes/前端学习/网络/跨域问题/跨域问题.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md",
-    "02LiteratureNotes/前端学习/网络/跨域问题/JSONP解决.md",
-    "02LiteratureNotes/前端学习/网络/跨域问题/同源策略.md",
-    "02LiteratureNotes/前端学习/网络/跨域问题/CORS解决.md"
+    "02LiteratureNotes/前端学习/网络/跨域问题/JSONP解决.md"
   ]
 }
