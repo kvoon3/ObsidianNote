@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4f8e01701697b9b",
+            "id": "0da68745b7620b92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md",
-                "mode": "source",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md"
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +186,17 @@
       "templates:插入模板": false
     }
   },
-  "active": "f1bf3ae1a59410c9",
+  "active": "0da68745b7620b92",
   "lastOpenFiles": [
-    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/未命名.md",
-    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/event.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/未命名.md",
     "日记/2023-01-11.md",
     "草稿.md",
     "02LiteratureNotes/Obisidian相关/YAML格式.md",
     "02LiteratureNotes/前端学习/网络/跨域问题/代理服务器解决.md",
-    "02LiteratureNotes/前端学习/网络/跨域问题/跨域问题.md",
-    "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md",
-    "02LiteratureNotes/前端学习/网络/跨域问题/JSONP解决.md"
+    "02LiteratureNotes/前端学习/网络/跨域问题/跨域问题.md"
   ]
 }
