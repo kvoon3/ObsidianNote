@@ -31,5 +31,4 @@ http
 
 ## 新 API
 
-```ts
-```
+[url 模块](http://nodejs.cn/api-v16/url.html)

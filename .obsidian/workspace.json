@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eac9f3f85d4d329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端（中间层）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "设计模式",
+                "query": "nodejs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端（中间层）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md"
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端（中间层）.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
+                "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端（中间层）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,17 +190,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e1ef5e9169a966f4",
+  "active": "9eac9f3f85d4d329",
   "lastOpenFiles": [
-    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http.md",
-    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
-    "02LiteratureNotes/前端学习/服务端/nodejs/未命名.md",
-    "02LiteratureNotes/前端学习/网络/cookie_session_token/token/实现token无感刷新.md",
-    "02LiteratureNotes/前端学习/网络/cookie_session_token/cookie.md",
-    "02LiteratureNotes/前端学习/服务端/nestjs/控制器/控制器.md",
-    "02LiteratureNotes/前端学习/服务端/nestjs/RESTful.md",
-    "02LiteratureNotes/前端学习/服务端/nestjs/前置知识/nestjs 前置知识.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/00 intro 装饰器.md",
-    "02LiteratureNotes/前端学习/三件套+/TypeScript/装饰器/方法装饰器.md"
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端.md",
+    "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md",
+    "02LiteratureNotes/前端学习/网络/跨域问题/JSONP解决.md",
+    "02LiteratureNotes/前端学习/网络/跨域问题/跨域问题.md",
+    "02LiteratureNotes/前端学习/网络/跨域问题/代理服务器解决.md",
+    "02LiteratureNotes/前端学习/网络/跨域问题/同源策略.md",
+    "02LiteratureNotes/前端学习/网络/跨域问题/CORS解决.md",
+    "02LiteratureNotes/前端学习/面试题/前端面试题.md",
+    "02LiteratureNotes/前端学习/面试题/前端面试500题/二阶段面试题/二阶段面试题.md",
+    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md"
   ]
 }
