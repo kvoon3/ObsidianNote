@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
