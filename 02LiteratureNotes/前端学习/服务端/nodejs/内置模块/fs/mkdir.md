@@ -13,5 +13,3 @@ mkdir('./tmp', { recursive: true }, (err) => {
 })
 ```
 
-```ts
-```
