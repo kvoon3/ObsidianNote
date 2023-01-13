@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/项目/TAXI_WEB/App.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nodejs",
+                "query": "rxjs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/项目/TAXI_WEB/App.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/项目/TAXI_WEB/App.md"
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/项目/TAXI_WEB/App.md",
+                "file": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +203,7 @@
   },
   "active": "3628408c725c7794",
   "lastOpenFiles": [
+    "01FleetingNotes/项目/TAXI_WEB/App.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/event.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md",
@@ -211,7 +212,6 @@
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/未命名.md",
     "日记/2023-01-11.md",
     "草稿.md",
-    "02LiteratureNotes/Obisidian相关/YAML格式.md",
-    "02LiteratureNotes/前端学习/网络/跨域问题/代理服务器解决.md"
+    "02LiteratureNotes/Obisidian相关/YAML格式.md"
   ]
 }
