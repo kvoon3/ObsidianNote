@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "intro",
+      "path": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md"
+    },
+    {
+      "basename": "mkdir",
+      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md"
+    },
+    {
+      "basename": "一阶段面试题",
+      "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md"
+    },
+    {
+      "basename": "二阶段面试题",
+      "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/二阶段面试题/二阶段面试题.md"
+    },
+    {
+      "basename": "三阶段",
+      "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/三阶段面试题/三阶段.md"
+    },
+    {
+      "basename": "拓展window声明",
+      "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/拓展window声明.md"
+    },
+    {
+      "basename": "index",
+      "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/类/index.md"
+    },
+    {
       "basename": "concatAll",
       "path": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md"
     },
     {
       "basename": "App",
       "path": "01FleetingNotes/项目/TAXI_WEB/App.md"
-    },
-    {
-      "basename": "mkdir",
-      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md"
     },
     {
       "basename": "event",

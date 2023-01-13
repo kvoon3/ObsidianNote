@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiJavascript",
+      "FasNetworkWired",
+      "SiXstate",
       "FasBook",
-      "SiNodedotjsWhite",
-      "SiNestjs",
-      "SiCypress",
-      "FasBrush"
+      "SiNodedotjsWhite"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,8 @@
   "02LiteratureNotes/前端学习/服务端/nestjs": "SiNestjs",
   "02LiteratureNotes/前端学习/服务端": "SiNodedotjsWhite",
   "02LiteratureNotes/前端学习/服务端/nodejs": "SiNodedotjsWhite",
-  "日记": "FasBook"
+  "日记": "FasBook",
+  "02LiteratureNotes/前端学习/状态管理": "SiXstate",
+  "02LiteratureNotes/前端学习/网络": "FasNetworkWired",
+  "02LiteratureNotes/前端学习/ECMAScript": "SiJavascript"
 }
