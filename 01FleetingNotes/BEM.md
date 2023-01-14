@@ -39,9 +39,11 @@ function foo(...args: any[]): any[]{
 }
 
 const bar = (..args: any[]): any[] => args
+
+class User {
+	constructor(){}
+}
 ```
-
-
 
 
 
