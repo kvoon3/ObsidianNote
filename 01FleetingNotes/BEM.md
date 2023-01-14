@@ -31,5 +31,17 @@ BEM 由 Yandex 发明，用来开发快速加载和长期维护的玩转。 BEM 
 - Block redefinition 块重定义
 - Redifinition level 重定义等级
 
+```ts
+console.log('kwongliegaai');
+
+function foo(...args: any[]): any[]{
+	return args;
+}
+
+const bar = (..args: any[]): any[] => args
+```
+
+
+
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
+                "file": "01FleetingNotes/BEM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
+                "file": "01FleetingNotes/BEM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md"
+                "file": "01FleetingNotes/BEM.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
+                "file": "01FleetingNotes/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +190,7 @@
   },
   "active": "0da68745b7620b92",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
     "02LiteratureNotes/前端学习/状态管理/xstate/未命名.canvas",
     "02LiteratureNotes/前端学习/状态管理/xstate/xstate.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md",
@@ -198,7 +199,6 @@
     "02LiteratureNotes/前端学习/面试题/前端面试500题/三阶段面试题/三阶段.md",
     "02LiteratureNotes/前端学习/状态管理/xstate.md",
     "02LiteratureNotes/前端学习/ES_TS/TypeScript/命名空间/命名空间(内模块).md",
-    "02LiteratureNotes/前端学习/ES_TS/TypeScript/TypeScript文档.md",
-    "02LiteratureNotes/前端学习/ES_TS/TypeScript/装饰器/属性装饰器.md"
+    "02LiteratureNotes/前端学习/ES_TS/TypeScript/TypeScript文档.md"
   ]
 }
