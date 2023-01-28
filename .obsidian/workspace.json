@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "草稿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "草稿.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/BEM.md"
+                "file": "草稿.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,15 +189,15 @@
   },
   "active": "0da68745b7620b92",
   "lastOpenFiles": [
+    "未命名.md",
+    "Tasks.md",
+    "soundWare.md",
+    "草稿.md",
+    "01FleetingNotes/BEM.md",
     "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
     "02LiteratureNotes/前端学习/状态管理/xstate/未命名.canvas",
     "02LiteratureNotes/前端学习/状态管理/xstate/xstate.md",
     "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md",
-    "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md",
-    "02LiteratureNotes/前端学习/面试题/前端面试500题/二阶段面试题/二阶段面试题.md",
-    "02LiteratureNotes/前端学习/面试题/前端面试500题/三阶段面试题/三阶段.md",
-    "02LiteratureNotes/前端学习/状态管理/xstate.md",
-    "02LiteratureNotes/前端学习/ES_TS/TypeScript/命名空间/命名空间(内模块).md",
-    "02LiteratureNotes/前端学习/ES_TS/TypeScript/TypeScript文档.md"
+    "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md"
   ]
 }

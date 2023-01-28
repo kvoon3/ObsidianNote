@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "soundWare",
+      "path": "soundWare.md"
+    },
+    {
       "basename": "BEM",
       "path": "01FleetingNotes/BEM.md"
     },
@@ -77,16 +93,8 @@
       "path": "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
       "basename": "论证",
       "path": "ObsidianNote(outdate/军队文职/粉笔/判断推理/论证.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "Drawing 2022-10-21 10.51.43.excalidraw",
