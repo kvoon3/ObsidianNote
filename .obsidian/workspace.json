@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/d.md",
+                "file": "草稿/JunDuiWenZhi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/d.md",
+                "file": "草稿/JunDuiWenZhi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/d.md"
+                "file": "草稿/JunDuiWenZhi.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/d.md",
+                "file": "草稿/JunDuiWenZhi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
