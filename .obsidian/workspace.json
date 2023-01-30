@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "02LiteratureNotes/前端学习/三件套/02CSS/伪类/has.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d4f5b06ceb931fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿/刑法1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "草稿/刑法1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/BEM.md"
+                "file": "草稿/刑法1.md"
               }
             }
           },
@@ -145,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "草稿/刑法1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,17 +202,17 @@
       "templates:插入模板": false
     }
   },
-  "active": "f1bf3ae1a59410c9",
+  "active": "9d4f5b06ceb931fd",
   "lastOpenFiles": [
+    "02LiteratureNotes/前端学习/三件套/02CSS/伪类/has.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/伪类/valid.md",
+    "01FleetingNotes/BEM.md",
     "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md",
     "日记/2023-01-30.md",
     "日记/2023-01-11.md",
     "模板/引用.md",
     "Tasks.md",
-    "01FleetingNotes/BEM.md",
     "01FleetingNotes/项目/TAXI_WEB/App.md",
-    "01FleetingNotes/项目/管理台.md",
-    "02LiteratureNotes/前端学习/三件套/02CSS/伪类/has.md",
-    "02LiteratureNotes/前端学习/三件套/02CSS/伪类/child.md"
+    "01FleetingNotes/项目/管理台.md"
   ]
 }

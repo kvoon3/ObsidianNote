@@ -10,6 +10,7 @@ date: 2022-12-20T10:46
 [前端BEM命名方法论](https://www.jianshu.com/p/aa51cd46804c)
 
 [前端 BEM 命名方法论：命名惯例](https://www.jianshu.com/p/04e220366078)
+
 BEM 由 Yandex 发明，用来开发快速加载和长期维护的玩转。 BEM 有助于开发**可拓展、可复用的接口组件**
 
 使用 BEM 后，以下问题将会得到解答
