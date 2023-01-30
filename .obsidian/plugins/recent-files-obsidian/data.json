@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "刑法1",
-      "path": "草稿/刑法1.md"
+      "basename": "00附加刑",
+      "path": "草稿/刑法/刑罚/附加刑/00附加刑.md"
+    },
+    {
+      "basename": "00主刑",
+      "path": "草稿/刑法/刑罚/主刑/00主刑.md"
+    },
+    {
+      "basename": "管制",
+      "path": "草稿/刑法/刑罚/主刑/管制.md"
+    },
+    {
+      "basename": "有期徒刑",
+      "path": "草稿/刑法/刑罚/主刑/有期徒刑.md"
+    },
+    {
+      "basename": "死刑",
+      "path": "草稿/刑法/刑罚/主刑/死刑.md"
+    },
+    {
+      "basename": "无期徒刑",
+      "path": "草稿/刑法/刑罚/主刑/无期徒刑.md"
+    },
+    {
+      "basename": "拘役",
+      "path": "草稿/刑法/刑罚/主刑/拘役.md"
+    },
+    {
+      "basename": "00刑罚",
+      "path": "草稿/刑法/刑罚/00刑罚.md"
     },
     {
       "basename": "has",
@@ -171,34 +199,6 @@
     {
       "basename": "Drawing 2022-04-07 21.40.18.excalidraw",
       "path": "02LiteratureNotes/Excalidraw/Drawing 2022-04-07 21.40.18.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-04-07 21.40.17.excalidraw",
-      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-04-07 21.40.17.excalidraw.md"
-    },
-    {
-      "basename": "5efdfbdd50c8679085cff529c6692967.png",
-      "path": "media/5efdfbdd50c8679085cff529c6692967.png.md"
-    },
-    {
-      "basename": "前端面试题",
-      "path": "02LiteratureNotes/前端学习/面试题/前端面试题.md"
-    },
-    {
-      "basename": "08 ts",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/08 ts.md"
-    },
-    {
-      "basename": "05 环境变量",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/05 环境变量.md"
-    },
-    {
-      "basename": "00 start",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/00 start.md"
-    },
-    {
-      "basename": "插件",
-      "path": "02LiteratureNotes/前端学习/前端工程化/webpack/插件.md"
     }
   ],
   "omittedPaths": [],
