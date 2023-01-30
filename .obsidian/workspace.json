@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdab2e6f7784b4e3",
+            "id": "812cdeecf876dde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿/刑法1.md",
+                "file": "01FleetingNotes/BEM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 328.5
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/刑法1.md",
+                "file": "01FleetingNotes/BEM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/刑法1.md"
+                "file": "01FleetingNotes/BEM.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/刑法1.md",
+                "file": "01FleetingNotes/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,17 +187,17 @@
       "templates:插入模板": false
     }
   },
-  "active": "fdab2e6f7784b4e3",
+  "active": "812cdeecf876dde0",
   "lastOpenFiles": [
-    "草稿/文职人员制度.md",
-    "草稿/类微信语音样式.md",
-    "未命名.md",
-    "Tasks.md",
-    "soundWare.md",
-    "01FleetingNotes/BEM.md",
-    "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
-    "02LiteratureNotes/前端学习/状态管理/xstate/未命名.canvas",
-    "02LiteratureNotes/前端学习/状态管理/xstate/xstate.md",
-    "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md"
+    "01FleetingNotes/项目/TAXI_WEB/App.md",
+    "01FleetingNotes/项目/管理台.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/伪类/has.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/伪类/child.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/去除滚动条.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/服务端字体.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/图形/平行四边形/背景图法.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/图形/平行四边形/裁剪.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/图形/平行四边形/扭曲加伪对象.md",
+    "草稿/刑法1.md"
   ]
 }

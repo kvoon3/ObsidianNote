@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "BEM",
+      "path": "01FleetingNotes/BEM.md"
+    },
+    {
+      "basename": "App",
+      "path": "01FleetingNotes/项目/TAXI_WEB/App.md"
+    },
+    {
+      "basename": "管理台",
+      "path": "01FleetingNotes/项目/管理台.md"
+    },
+    {
+      "basename": "has",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/伪类/has.md"
+    },
+    {
+      "basename": "child",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/伪类/child.md"
+    },
+    {
+      "basename": "去除滚动条",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/去除滚动条.md"
+    },
+    {
+      "basename": "服务端字体",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/服务端字体.md"
+    },
+    {
+      "basename": "背景图法",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/图形/平行四边形/背景图法.md"
+    },
+    {
+      "basename": "裁剪",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/图形/平行四边形/裁剪.md"
+    },
+    {
+      "basename": "扭曲加伪对象",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/图形/平行四边形/扭曲加伪对象.md"
+    },
+    {
       "basename": "刑法1",
       "path": "草稿/刑法1.md"
     },
@@ -23,10 +63,6 @@
     {
       "basename": "soundWare",
       "path": "soundWare.md"
-    },
-    {
-      "basename": "BEM",
-      "path": "01FleetingNotes/BEM.md"
     },
     {
       "basename": "intro",
@@ -59,10 +95,6 @@
     {
       "basename": "concatAll",
       "path": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md"
-    },
-    {
-      "basename": "App",
-      "path": "01FleetingNotes/项目/TAXI_WEB/App.md"
     },
     {
       "basename": "event",
@@ -167,14 +199,6 @@
     {
       "basename": "04 配置文件处理",
       "path": "02LiteratureNotes/前端学习/前端工程化/vite/04 配置文件处理.md"
-    },
-    {
-      "basename": "03 开始",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/03 开始.md"
-    },
-    {
-      "basename": "01 脚手架",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/01 脚手架.md"
     }
   ],
   "omittedPaths": [],
