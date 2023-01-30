@@ -5,6 +5,22 @@
       "path": "01FleetingNotes/BEM.md"
     },
     {
+      "basename": "concatAll",
+      "path": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md"
+    },
+    {
+      "basename": "2023-01-11",
+      "path": "日记/2023-01-11.md"
+    },
+    {
+      "basename": "引用",
+      "path": "模板/引用.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
       "basename": "App",
       "path": "01FleetingNotes/项目/TAXI_WEB/App.md"
     },
@@ -57,10 +73,6 @@
       "path": "未命名.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
       "basename": "soundWare",
       "path": "soundWare.md"
     },
@@ -93,10 +105,6 @@
       "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/类/index.md"
     },
     {
-      "basename": "concatAll",
-      "path": "02LiteratureNotes/前端学习/三件套+/Rxjs/api/concatAll.md"
-    },
-    {
       "basename": "event",
       "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/event.md"
     },
@@ -111,10 +119,6 @@
     {
       "basename": "中间层",
       "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md"
-    },
-    {
-      "basename": "2023-01-11",
-      "path": "日记/2023-01-11.md"
     },
     {
       "basename": "未命名",
@@ -191,14 +195,6 @@
     {
       "basename": "插件",
       "path": "02LiteratureNotes/前端学习/前端工程化/webpack/插件.md"
-    },
-    {
-      "basename": "07 postcss",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/07 postcss.md"
-    },
-    {
-      "basename": "04 配置文件处理",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/04 配置文件处理.md"
     }
   ],
   "omittedPaths": [],
