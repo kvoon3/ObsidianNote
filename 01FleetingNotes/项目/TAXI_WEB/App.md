@@ -1,6 +1,10 @@
 # App.vue
 
+
+beforeMount
+
 ```ts
+// 不是微信客户端 -> 为 final redirect
 if (!isWeixinUserAgent()) {finalRedirect = true; return}
 
 const href = window.location.href;
