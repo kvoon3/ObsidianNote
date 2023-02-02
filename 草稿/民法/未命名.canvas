@@ -1,9 +1,4 @@
 {
-	"nodes":[
-		{"id":"5c549febeff87dc3","x":-315,"y":-12,"width":196,"height":60,"type":"text","text":"# 民法"},
-		{"id":"8e750528c8a1698c","x":209,"y":-72,"width":250,"height":60,"type":"text","text":"# 概念"},
-		{"id":"fed2aadafe839aa7","x":209,"y":48,"width":266,"height":58,"type":"text","text":"# 基本准则"},
-		{"id":"472b1140a491699c","x":-71,"y":-12,"width":250,"height":60,"type":"text","text":"# 概述"}
-	],
+	"nodes":[],
 	"edges":[]
 }
