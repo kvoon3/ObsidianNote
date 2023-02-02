@@ -11,12 +11,15 @@
             "id": "91e8c87d04abea92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "草稿/分则/犯罪的种类.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "草稿/民法/未命名.canvas",
+                "viewState": {
+                  "x": 83,
+                  "y": 67,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 249.00418853759766,
     "collapsed": true
   },
   "right": {
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/分则/犯罪的种类.md",
+                "file": "草稿/民法/未命名.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/分则/犯罪的种类.md"
+                "file": "草稿/民法/未命名.canvas"
               }
             }
           },
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/分则/犯罪的种类.md",
+                "file": "草稿/民法/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +192,8 @@
   },
   "active": "91e8c87d04abea92",
   "lastOpenFiles": [
+    "Tasks.md",
+    "草稿/分则/犯罪的种类.md",
     "草稿/刑法/刑罚/00刑罚.md",
     "01FleetingNotes/项目/TAXI_WEB/App.md",
     "草稿/刑法/刑罚/主刑/00主刑.md",
@@ -196,8 +201,6 @@
     "草稿/刑法/刑罚/主刑/管制.md",
     "草稿/刑法/刑罚/主刑/有期徒刑.md",
     "草稿/刑法/刑罚/主刑/死刑.md",
-    "草稿/刑法/刑罚/主刑/无期徒刑.md",
-    "草稿/刑法/刑罚/主刑/拘役.md",
-    "草稿/刑法/刑罚/未命名.md"
+    "草稿/刑法/刑罚/主刑/无期徒刑.md"
   ]
 }

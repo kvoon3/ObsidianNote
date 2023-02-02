@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "草稿/民法/未命名.canvas"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
       "basename": "犯罪的种类",
       "path": "草稿/分则/犯罪的种类.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "引用",
       "path": "模板/引用.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "管理台",
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2022-08-24 18.58.41.excalidraw",
       "path": "02LiteratureNotes/Excalidraw/Drawing 2022-08-24 18.58.41.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-05-17 12.46.59.excalidraw",
-      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-05-17 12.46.59.excalidraw.md"
     }
   ],
   "omittedPaths": [],
