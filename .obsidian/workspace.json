@@ -19,25 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "b1b6351097af4124",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "草稿/民法/未命名.canvas",
-                "viewState": {
-                  "x": 180.5,
-                  "y": -35,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/民法/未命名.canvas",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/民法/未命名.canvas"
+                "file": "未命名.md"
               }
             }
           },
@@ -162,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/民法/未命名.canvas",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +186,10 @@
       "templates:插入模板": false
     }
   },
-  "active": "b1b6351097af4124",
+  "active": "91e8c87d04abea92",
   "lastOpenFiles": [
-    "草稿/类微信语音样式.md",
     "草稿/民法/未命名.canvas",
+    "草稿/类微信语音样式.md",
     "草稿/未命名.md",
     "未命名.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/06 处理 css.md",
