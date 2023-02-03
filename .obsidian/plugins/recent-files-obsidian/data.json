@@ -2,6 +2,34 @@
   "recentFiles": [
     {
       "basename": "未命名",
+      "path": "草稿/未命名.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "06 处理 css",
+      "path": "02LiteratureNotes/前端学习/前端工程化/vite/06 处理 css.md"
+    },
+    {
+      "basename": "00 intro",
+      "path": "02LiteratureNotes/前端学习/前端工程化/postcss/00 intro.md"
+    },
+    {
+      "basename": "HashHistory(锚点模式",
+      "path": "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/HashHistory(锚点模式.md"
+    },
+    {
+      "basename": "BrowserHistory",
+      "path": "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/BrowserHistory.md"
+    },
+    {
+      "basename": "B和H的区别",
+      "path": "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/B和H的区别.md"
+    },
+    {
+      "basename": "未命名",
       "path": "草稿/民法/未命名.canvas"
     },
     {
@@ -109,10 +137,6 @@
       "path": "草稿/类微信语音样式.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
       "basename": "soundWare",
       "path": "soundWare.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "intro",
       "path": "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md"
-    },
-    {
-      "basename": "论证",
-      "path": "ObsidianNote(outdate/军队文职/粉笔/判断推理/论证.md"
-    },
-    {
-      "basename": "Drawing 2022-10-21 10.51.43.excalidraw",
-      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-10-21 10.51.43.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-09-11 14.43.44.excalidraw",
-      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-09-11 14.43.44.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-09-11 14.43.42.excalidraw",
-      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-09-11 14.43.42.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-08-24 18.58.47.excalidraw",
-      "path": "02LiteratureNotes/Excalidraw/Drawing 2022-08-24 18.58.47.excalidraw.md"
     }
   ],
   "omittedPaths": [],
