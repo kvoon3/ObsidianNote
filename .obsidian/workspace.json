@@ -16,7 +16,7 @@
                 "file": "未命名.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -24,12 +24,15 @@
             "id": "b1b6351097af4124",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "草稿/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "草稿/民法/未命名.canvas",
+                "viewState": {
+                  "x": 180.5,
+                  "y": -35,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿/未命名.md",
+                "file": "草稿/民法/未命名.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿/未命名.md"
+                "file": "草稿/民法/未命名.canvas"
               }
             }
           },
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿/未命名.md",
+                "file": "草稿/民法/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,15 +205,15 @@
   },
   "active": "b1b6351097af4124",
   "lastOpenFiles": [
+    "草稿/类微信语音样式.md",
+    "草稿/民法/未命名.canvas",
+    "草稿/未命名.md",
     "未命名.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/06 处理 css.md",
     "02LiteratureNotes/前端学习/前端工程化/postcss/00 intro.md",
     "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/HashHistory(锚点模式.md",
     "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/BrowserHistory.md",
     "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/B和H的区别.md",
-    "草稿/民法/未命名.canvas",
-    "草稿/民法/未命名.md",
-    "Tasks.md",
-    "草稿/分则/犯罪的种类.md"
+    "草稿/民法/未命名.md"
   ]
 }

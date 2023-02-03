@@ -1,4 +1,11 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"33a044538860d773","x":-492,"y":-241,"width":647,"height":361,"type":"text","text":"# title\n\n## content\n\nlist\n\n- kwongliegaai\n- kwongliegaai\n\n[[02LiteratureNotes/前端学习/网络/跨域问题/代理服务器解决]]"},
+		{"id":"4a937caa50e09d00","x":307,"y":-281,"width":442,"height":266,"type":"text","text":"# title\n\n## sdlf\n\nsadfa\n\nasdf"},
+		{"id":"64d2b48068ac45da","x":347,"y":120,"width":250,"height":60,"type":"text","text":"sdf "}
+	],
+	"edges":[
+		{"id":"91eac2458cfbea2c","fromNode":"33a044538860d773","fromSide":"right","toNode":"4a937caa50e09d00","toSide":"left"},
+		{"id":"1c30311e81fc748b","fromNode":"33a044538860d773","fromSide":"right","toNode":"64d2b48068ac45da","toSide":"left"}
+	]
 }
