@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "draft",
+      "path": "草稿/draft.md"
+    },
+    {
+      "basename": "文职人员制度",
+      "path": "草稿/文职人员制度.md"
+    },
+    {
+      "basename": "00附加刑",
+      "path": "草稿/刑法/刑罚/附加刑/00附加刑.md"
+    },
+    {
       "basename": "BEM",
       "path": "01FleetingNotes/BEM.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "00主刑",
       "path": "草稿/刑法/刑罚/主刑/00主刑.md"
-    },
-    {
-      "basename": "00附加刑",
-      "path": "草稿/刑法/刑罚/附加刑/00附加刑.md"
     },
     {
       "basename": "管制",
@@ -133,10 +141,6 @@
       "path": "02LiteratureNotes/前端学习/三件套/02CSS/图形/平行四边形/扭曲加伪对象.md"
     },
     {
-      "basename": "文职人员制度",
-      "path": "草稿/文职人员制度.md"
-    },
-    {
       "basename": "soundWare",
       "path": "soundWare.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drawing 2022-10-24 11.11.25.excalidraw",
       "path": "Excalidraw/Drawing 2022-10-24 11.11.25.excalidraw.md"
-    },
-    {
-      "basename": "intro",
-      "path": "02LiteratureNotes/前端学习/前端工程化/vite/插件/intro.md"
     }
   ],
   "omittedPaths": [],
