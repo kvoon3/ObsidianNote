@@ -11,7 +11,6 @@
   "obsidian-emoji-toolbar",
   "obsidian-linter",
   "obsidian-pandoc",
-  "obsidian-wordpress",
   "url-into-selection",
   "note-refactor-obsidian",
   "sliding-panes-obsidian",
@@ -24,5 +23,6 @@
   "recent-files-obsidian",
   "highlightr-plugin",
   "obsidian-underline",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "canvas-mindmap"
 ]

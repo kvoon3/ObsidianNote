@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "01FleetingNotes/BEM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rxjs",
+                "query": "BEM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "01FleetingNotes/BEM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "01FleetingNotes/BEM.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "01FleetingNotes/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,12 +186,12 @@
       "templates:插入模板": false
     }
   },
-  "active": "91e8c87d04abea92",
+  "active": "f1bf3ae1a59410c9",
   "lastOpenFiles": [
+    "未命名.md",
     "草稿/民法/未命名.canvas",
     "草稿/类微信语音样式.md",
     "草稿/未命名.md",
-    "未命名.md",
     "02LiteratureNotes/前端学习/前端工程化/vite/06 处理 css.md",
     "02LiteratureNotes/前端学习/前端工程化/postcss/00 intro.md",
     "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/HashHistory(锚点模式.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BEM",
+      "path": "01FleetingNotes/BEM.md"
+    },
+    {
       "basename": "未命名",
       "path": "未命名.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "valid",
       "path": "02LiteratureNotes/前端学习/三件套/02CSS/伪类/valid.md"
-    },
-    {
-      "basename": "BEM",
-      "path": "01FleetingNotes/BEM.md"
     },
     {
       "basename": "concatAll",
