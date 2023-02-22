@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "02LiteratureNotes/前端学习/vim/vim配置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BEM",
+                "query": "vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.00418853759766,
-    "collapsed": true
+    "width": 249.00418853759766
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "02LiteratureNotes/前端学习/vim/vim配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/BEM.md"
+                "file": "02LiteratureNotes/前端学习/vim/vim配置.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/BEM.md",
+                "file": "02LiteratureNotes/前端学习/vim/vim配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +189,9 @@
   },
   "active": "d60572bd3a23ef35",
   "lastOpenFiles": [
+    "01FleetingNotes/BEM.md",
     "01FleetingNotes/map/地址.md",
     "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
-    "01FleetingNotes/BEM.md",
     "草稿/draft.md",
     "草稿/文职人员制度.md",
     "草稿/刑法/刑罚/附加刑/00附加刑.md",
