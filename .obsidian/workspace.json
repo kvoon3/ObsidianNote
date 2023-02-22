@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
+                "file": "01FleetingNotes/BEM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "省略",
+                "query": "BEM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.00418853759766
+    "width": 249.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
+                "file": "01FleetingNotes/BEM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md"
+                "file": "01FleetingNotes/BEM.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
+                "file": "01FleetingNotes/BEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,6 +190,8 @@
   },
   "active": "d60572bd3a23ef35",
   "lastOpenFiles": [
+    "01FleetingNotes/map/地址.md",
+    "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
     "01FleetingNotes/BEM.md",
     "草稿/draft.md",
     "草稿/文职人员制度.md",
@@ -196,8 +199,6 @@
     "未命名.md",
     "草稿/民法/未命名.canvas",
     "草稿/类微信语音样式.md",
-    "草稿/未命名.md",
-    "02LiteratureNotes/前端学习/前端工程化/vite/06 处理 css.md",
-    "02LiteratureNotes/前端学习/前端工程化/postcss/00 intro.md"
+    "草稿/未命名.md"
   ]
 }

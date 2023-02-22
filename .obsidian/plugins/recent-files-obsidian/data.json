@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "文本溢出省略",
-      "path": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md"
-    },
-    {
       "basename": "BEM",
       "path": "01FleetingNotes/BEM.md"
+    },
+    {
+      "basename": "地址",
+      "path": "01FleetingNotes/map/地址.md"
+    },
+    {
+      "basename": "文本溢出省略",
+      "path": "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md"
     },
     {
       "basename": "draft",
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "01FleetingNotes/未命名.md"
-    },
-    {
-      "basename": "vben",
-      "path": "01FleetingNotes/vben.md"
     }
   ],
   "omittedPaths": [],
