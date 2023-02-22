@@ -45,5 +45,3 @@ class User {
 	constructor(){}
 }
 ```
-
-isdf
