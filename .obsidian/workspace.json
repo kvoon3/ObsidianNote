@@ -19,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "06e3abfc7c6dc90d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +187,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "06e3abfc7c6dc90d",
+  "active": "d60572bd3a23ef35",
   "lastOpenFiles": [
     "01FleetingNotes/BEM.md",
     "01FleetingNotes/map/地址.md",
