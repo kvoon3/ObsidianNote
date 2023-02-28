@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "map",
+      "path": "01FleetingNotes/map.md"
+    },
+    {
       "basename": "vim配置",
       "path": "02LiteratureNotes/前端学习/vim/vim配置.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "服务端",
       "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/服务端.md"
-    },
-    {
-      "basename": "中间层",
-      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/http/中间层.md"
     }
   ],
   "omittedPaths": [],
