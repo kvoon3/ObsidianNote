@@ -46,12 +46,3 @@
   // }
 ```
 
-
-```ts
-let name: string = 'kwongliegaai';
-
-const literature_note: object = {
-	name: string;
-	age: number;
-}
-```
