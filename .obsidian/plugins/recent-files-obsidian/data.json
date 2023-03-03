@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Opening",
-      "path": "BS/Opening.md"
+      "basename": "开题答辩",
+      "path": "BS/开题答辩.md"
+    },
+    {
+      "basename": "幻灯片",
+      "path": "BS/幻灯片.md"
     },
     {
       "basename": "todo",
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/类/index.md"
-    },
-    {
-      "basename": "event",
-      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/event.md"
     }
   ],
   "omittedPaths": [],

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fef28e53210b8540",
+        "id": "48ce1a48eaf99594",
         "type": "tabs",
         "children": [
           {
-            "id": "9bae7e2fa2faf71a",
+            "id": "dd70c7577b871ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BS/Opening.md",
+                "file": "BS/开题答辩.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 249.00418853759766,
-    "collapsed": true
+    "width": 249.00418853759766
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BS/Opening.md",
+                "file": "BS/开题答辩.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BS/Opening.md"
+                "file": "BS/开题答辩.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BS/Opening.md",
+                "file": "BS/开题答辩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +188,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "9bae7e2fa2faf71a",
+  "active": "dd70c7577b871ba1",
   "lastOpenFiles": [
+    "BS/幻灯片.md",
+    "BS/开题答辩.md",
     "01FleetingNotes/项目/TAXI_WEB/todo.md",
-    "BS/Opening.md",
     "BS",
     "01FleetingNotes/map.md",
     "02LiteratureNotes/前端学习/vim/vim配置.md",
