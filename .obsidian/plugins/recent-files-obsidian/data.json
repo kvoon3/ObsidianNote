@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Opening",
+      "path": "BS/Opening.md"
+    },
+    {
       "basename": "todo",
       "path": "01FleetingNotes/项目/TAXI_WEB/todo.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "event",
       "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/event.md"
-    },
-    {
-      "basename": "url",
-      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/url.md"
     }
   ],
   "omittedPaths": [],
