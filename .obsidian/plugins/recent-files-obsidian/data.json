@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Machines",
+      "path": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "02LiteratureNotes/前端学习/状态管理/未命名.canvas"
+    },
+    {
+      "basename": "intro",
+      "path": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md"
+    },
+    {
       "basename": "Opening",
       "path": "BS/Opening.md"
     },
@@ -169,10 +181,6 @@
       "path": "soundWare.md"
     },
     {
-      "basename": "intro",
-      "path": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md"
-    },
-    {
       "basename": "mkdir",
       "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "拓展window声明",
       "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/拓展window声明.md"
-    },
-    {
-      "basename": "index",
-      "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/类/index.md"
-    },
-    {
-      "basename": "event",
-      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/event.md"
     }
   ],
   "omittedPaths": [],

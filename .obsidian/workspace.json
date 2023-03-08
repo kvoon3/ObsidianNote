@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BS/Opening.md",
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.00418853759766,
-    "collapsed": true
+    "width": 249.00418853759766
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BS/Opening.md",
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BS/Opening.md"
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BS/Opening.md",
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,8 +188,11 @@
   },
   "active": "9bae7e2fa2faf71a",
   "lastOpenFiles": [
-    "01FleetingNotes/项目/TAXI_WEB/todo.md",
+    "02LiteratureNotes/前端学习/状态管理/未命名.canvas",
+    "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
+    "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
     "BS/Opening.md",
+    "01FleetingNotes/项目/TAXI_WEB/todo.md",
     "BS",
     "01FleetingNotes/map.md",
     "02LiteratureNotes/前端学习/vim/vim配置.md",
