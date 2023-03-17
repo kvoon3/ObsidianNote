@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "25101ba24091ef6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +199,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "dd70c7577b871ba1",
+  "active": "25101ba24091ef6c",
   "lastOpenFiles": [
     "BS/幻灯片.md",
     "BS/开题答辩.md",
