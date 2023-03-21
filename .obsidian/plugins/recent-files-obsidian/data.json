@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名 1",
-      "path": "01FleetingNotes/未命名 1.canvas"
+      "basename": "nestjs-typeorm",
+      "path": "01FleetingNotes/nest/nestjs-typeorm.md"
+    },
+    {
+      "basename": "nest",
+      "path": "01FleetingNotes/nest/nest.canvas"
     },
     {
       "basename": "vue3 watch arr",

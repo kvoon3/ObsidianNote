@@ -13,16 +13,30 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "01FleetingNotes/未命名 1.canvas",
+                "file": "01FleetingNotes/nest/nest.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -160,
+                  "y": -568.75,
                   "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "10ce39b9c5b93204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01FleetingNotes/nest/nestjs-typeorm.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01FleetingNotes/未命名 1.canvas",
+                "file": "01FleetingNotes/nest/nestjs-typeorm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01FleetingNotes/未命名 1.canvas"
+                "file": "01FleetingNotes/nest/nestjs-typeorm.md"
               }
             }
           },
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01FleetingNotes/未命名 1.canvas",
+                "file": "01FleetingNotes/nest/nestjs-typeorm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +204,12 @@
       "templates:插入模板": false
     }
   },
-  "active": "295d84f13fa0d896",
+  "active": "10ce39b9c5b93204",
   "lastOpenFiles": [
+    "01FleetingNotes/nest/nest.canvas",
+    "01FleetingNotes/nest",
+    "01FleetingNotes/nest/nestjs-typeorm.md",
     "01FleetingNotes/nest.md",
-    "01FleetingNotes/未命名 1.canvas",
     "01FleetingNotes/vue3 watch arr.md",
     "01FleetingNotes/keep-alive.md",
     "01FleetingNotes/BEM.md",
