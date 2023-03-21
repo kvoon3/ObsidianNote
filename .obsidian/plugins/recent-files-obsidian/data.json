@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "预约车",
+      "path": "预约车.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "开题答辩",
       "path": "BS/开题答辩.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "三阶段",
       "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/三阶段面试题/三阶段.md"
-    },
-    {
-      "basename": "拓展window声明",
-      "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/拓展window声明.md"
-    },
-    {
-      "basename": "index",
-      "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/类/index.md"
     }
   ],
   "omittedPaths": [],
