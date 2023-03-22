@@ -52,3 +52,5 @@ async update (
 	@Body(new ValidationPipe({ groups: ['update']})) input: UpdateBookDTO
 ) {}
 ```
+
+12 -> 15 + 15 = 30
