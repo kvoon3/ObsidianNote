@@ -39,3 +39,16 @@ async practive() {
 	})
 }
 ```
+
+## 验证
+
+1. global validationPipe
+2. group validationPipe（不能和全局的并存）
+
+```ts
+// group
+async update (
+	@Param('id') id,
+	@Body(new ValidationPipe({ groups: ['update']})) input: UpdateBookDTO
+) {}
+```
