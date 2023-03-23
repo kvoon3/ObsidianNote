@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.00418853759766,
-    "collapsed": true
+    "width": 249.00418853759766
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -204,7 +203,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "10ce39b9c5b93204",
+  "active": "f1bf3ae1a59410c9",
   "lastOpenFiles": [
     "01FleetingNotes/nest/nest.canvas",
     "01FleetingNotes/nest/nestjs-typeorm.md",

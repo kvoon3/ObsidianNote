@@ -6,6 +6,14 @@
 pnpm i -save @nestjs/typeorm typeorm mysql
 ```
 
+generate a entity
+
+```sh
+nest g class coffees/entities/Flavar.entity --no-spec
+```
+
+## CRUD
+
 ```ts
 // books.controller.ts update操作
 @Patch(':id')
@@ -16,31 +24,18 @@ async update(@Param('id') id, @Body() input: UpdateBooksDTO) {
 }
 ```
 
-## Practice
+## relation
 
 ```ts
-@Get('/practive')
-async practive() {
-	return await this.repo.find({
-		select: ['id', 'when'],
-		where: [
-			{
-				id: MoreThan(3),
-				time: MoreThan(new Date('2021....'))
-			},
-			{
-				description: Like('%meet%')
-			}
-		],
-		take: 2,
-		order: {
-			id: 'DESC'
-		}
-	})
-}
+@Entity() export class Coffe {
+	// ...
+	@JoinTable()
+	@ManyToMany()
+	flavors: string[] }
 ```
 
-## 验证
+
+# 验证
 
 1. global validationPipe
 2. group validationPipe（不能和全局的并存）
@@ -53,7 +48,3 @@ async update (
 ) {}
 ```
 
-12 -> 15 + 15 = 30
-
-当前小时的分钟数距离下一个小时的分钟数不足15分钟
-当前小时 ： hours
