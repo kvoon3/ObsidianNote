@@ -12,7 +12,7 @@
   "attachmentFolderPath": "02LiteratureNotes/前端学习/服务端/img",
   "communityPluginSortOrder": "download",
   "strictLineBreaks": true,
-  "vimMode": true,
+  "vimMode": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
