@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7554321c81cdad3c",
+        "id": "fef28e53210b8540",
         "type": "tabs",
         "children": [
           {
-            "id": "1a1068d8872c3631",
+            "id": "9bae7e2fa2faf71a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 249.00418853759766
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md"
+              }
             }
           },
           {
@@ -137,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,44 +186,29 @@
       "templates:插入模板": false
     }
   },
-  "active": "f1bf3ae1a59410c9",
+  "active": "9bae7e2fa2faf71a",
   "lastOpenFiles": [
-    "深入浅出RxJS (程墨) (Z-Library).epub.baiduyun.uploading.cfg",
-    "深入浅出RxJS (程墨) (Z-Library).epub",
-    "190680407.民主评议.旷力介.md",
-    "未命名.md",
-    "190680407.民主评议.旷力介.md.baiduyun.uploading.cfg",
-    "todelete.md.baiduyun.uploading.cfg",
-    "未命名 1.md.baiduyun.uploading.cfg",
-    "01FleetingNotes/nest/nest.canvas",
-    "01FleetingNotes/nest/nestjs-typeorm.md",
-    "01FleetingNotes/nest/nestjs-typeorm.md.baiduyun.uploading.cfg",
-    "预约车.md.baiduyun.uploading.cfg",
-    "草稿/类微信语音样式.md.baiduyun.uploading.cfg",
-    "草稿/民法/未命名.canvas.baiduyun.uploading.cfg",
-    "草稿/未命名.md.baiduyun.uploading.cfg",
-    "草稿/文职人员制度.md.baiduyun.uploading.cfg",
-    "01FleetingNotes/nest.md",
-    "01FleetingNotes/vue3 watch arr.md",
-    "01FleetingNotes/keep-alive.md",
-    "01FleetingNotes/BEM.md",
-    "01FleetingNotes/长按事件.md",
-    "01FleetingNotes/未命名.canvas",
-    "Tasks.md",
     "预约车.md",
-    "conflict-files-obsidian-git.md",
+    "BS/开题答辩.md",
+    "BS/幻灯片.md",
+    "01FleetingNotes/nest/nestjs-typeorm.md",
+    "01FleetingNotes/nest/nest.canvas",
+    "01FleetingNotes/nest",
     "02LiteratureNotes/前端学习/状态管理/未命名.canvas",
     "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
-    "BS/幻灯片.md",
-    "BS/开题答辩.md",
+    "02LiteratureNotes/前端学习/状态管理/xstate/intro.md",
+    "BS/Opening.md",
     "01FleetingNotes/项目/TAXI_WEB/todo.md",
+    "BS",
     "01FleetingNotes/map.md",
     "02LiteratureNotes/前端学习/vim/vim配置.md",
+    "01FleetingNotes/BEM.md",
     "01FleetingNotes/map/地址.md",
     "02LiteratureNotes/前端学习/三件套/02CSS/文本溢出省略.md",
     "草稿/draft.md",
     "草稿/文职人员制度.md",
     "草稿/刑法/刑罚/附加刑/00附加刑.md",
+    "未命名.md",
     "草稿/民法/未命名.canvas",
     "草稿/类微信语音样式.md",
     "草稿/未命名.md"

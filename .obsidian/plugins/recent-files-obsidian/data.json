@@ -1,52 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "190680407.民主评议.旷力介",
-      "path": "190680407.民主评议.旷力介.md"
+      "basename": "Machines",
+      "path": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md"
     },
     {
       "basename": "未命名",
-      "path": "未命名.md"
+      "path": "02LiteratureNotes/前端学习/状态管理/未命名.canvas"
     },
     {
-      "basename": "nest",
-      "path": "01FleetingNotes/nest/nest.canvas"
-    },
-    {
-      "basename": "vue3 watch arr",
-      "path": "01FleetingNotes/vue3 watch arr.md"
-    },
-    {
-      "basename": "keep-alive",
-      "path": "01FleetingNotes/keep-alive.md"
-    },
-    {
-      "basename": "BEM",
-      "path": "01FleetingNotes/BEM.md"
-    },
-    {
-      "basename": "长按事件",
-      "path": "01FleetingNotes/长按事件.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "01FleetingNotes/未命名.canvas"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "预约车",
-      "path": "预约车.md"
-    },
-    {
-      "basename": "开题答辩",
-      "path": "BS/开题答辩.md"
-    },
-    {
-      "basename": "幻灯片",
-      "path": "BS/幻灯片.md"
+      "basename": "intro",
+      "path": "02LiteratureNotes/前端学习/状态管理/xstate/intro.md"
     },
     {
       "basename": "todo",
@@ -59,6 +23,10 @@
     {
       "basename": "vim配置",
       "path": "02LiteratureNotes/前端学习/vim/vim配置.md"
+    },
+    {
+      "basename": "BEM",
+      "path": "01FleetingNotes/BEM.md"
     },
     {
       "basename": "地址",
@@ -79,6 +47,10 @@
     {
       "basename": "00附加刑",
       "path": "草稿/刑法/刑罚/附加刑/00附加刑.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
     },
     {
       "basename": "未命名",
@@ -111,6 +83,10 @@
     {
       "basename": "B和H的区别",
       "path": "02LiteratureNotes/前端学习/路由/03前端路由/转跳的模式/B和H的区别.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "犯罪的种类",
@@ -199,6 +175,26 @@
     {
       "basename": "soundWare",
       "path": "soundWare.md"
+    },
+    {
+      "basename": "mkdir",
+      "path": "02LiteratureNotes/前端学习/服务端/nodejs/内置模块/fs/mkdir.md"
+    },
+    {
+      "basename": "一阶段面试题",
+      "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/一阶段面试题/一阶段面试题.md"
+    },
+    {
+      "basename": "二阶段面试题",
+      "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/二阶段面试题/二阶段面试题.md"
+    },
+    {
+      "basename": "三阶段",
+      "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/三阶段面试题/三阶段.md"
+    },
+    {
+      "basename": "拓展window声明",
+      "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/拓展window声明.md"
     }
   ],
   "omittedPaths": [],
