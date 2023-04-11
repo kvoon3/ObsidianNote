@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "api",
+      "path": "api.md"
+    },
+    {
+      "basename": "normalize",
+      "path": "normalize.md"
+    },
+    {
+      "basename": "websocket&socketio",
+      "path": "websocket&socketio.md"
+    },
+    {
       "basename": "Machines",
       "path": "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "00附加刑",
       "path": "草稿/刑法/刑罚/附加刑/00附加刑.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "未命名",
@@ -191,10 +199,6 @@
     {
       "basename": "三阶段",
       "path": "02LiteratureNotes/前端学习/面试题/前端面试500题/三阶段面试题/三阶段.md"
-    },
-    {
-      "basename": "拓展window声明",
-      "path": "02LiteratureNotes/前端学习/三件套+/TypeScript/拓展window声明.md"
     }
   ],
   "omittedPaths": [],
