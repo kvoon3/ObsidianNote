@@ -12,3 +12,9 @@
 2. addHelpResource
 3. getSelfProfile
 4. getProfile
+
+我是组员
+我是
+
++ 本周推广人数
++ 总推广人数
