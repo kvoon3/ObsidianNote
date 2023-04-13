@@ -16,7 +16,7 @@
                 "file": "normalize.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -29,7 +29,7 @@
                 "file": "fix.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
