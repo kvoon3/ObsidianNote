@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api.md",
+                "file": "fix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.00418853759766
+    "width": 249.00418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "535117ac6b3b57ba",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "api.md",
+                "file": "fix.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "api.md"
+                "file": "fix.md"
               }
             }
           },
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "api.md",
+                "file": "fix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +206,7 @@
   "active": "85e52435d422a943",
   "lastOpenFiles": [
     "normalize.md",
-    "api.md",
+    "fix.md",
     "未命名 2.md",
     "websocket&socketio.md",
     "02LiteratureNotes/前端学习/状态管理/xstate/Machines.md",
