@@ -36,3 +36,38 @@ TODO
 > 成员列表: 新的申请
 
 - [x] id 显示 -> 微喇号 ✅ 2023-04-13
+
+
+ const texts = [
+
+    "这是一段文本",
+
+    "这是一段文本",
+
+  ];
+
+  
+
+  texts.forEach((text) => {
+
+    const textCanvas = document.createElement("canvas");
+
+    textCanvas.width = 270;
+
+    textCanvas.height = 30;
+
+    const ctx = textCanvas.getContext("2d");
+
+    ctx.font = "14px Arial";
+
+    ctx.fillStyle = "#000000";
+
+    ctx.textAlign = "center";
+
+    ctx.fillText(text, textCanvas.width / 2, textCanvas.height / 2);
+
+    const qrcodeCanvas = document.getElementById("qrcodeCanvas");
+
+    qrcodeCanvas.parentNode.insertBefore(textCanvas, qrcodeCanvas.nextSibling);
+
+  });
