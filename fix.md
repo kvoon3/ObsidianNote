@@ -71,3 +71,4 @@ TODO
     qrcodeCanvas.parentNode.insertBefore(textCanvas, qrcodeCanvas.nextSibling);
 
   });
+ 
