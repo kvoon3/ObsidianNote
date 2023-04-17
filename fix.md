@@ -40,39 +40,3 @@ TODO
 四、组织
 
 总推广数
-
-
- const texts = [
-
-    "这是一段文本",
-
-    "这是一段文本",
-
-  ];
-
-  
-
-  texts.forEach((text) => {
-
-    const textCanvas = document.createElement("canvas");
-
-    textCanvas.width = 270;
-
-    textCanvas.height = 30;
-
-    const ctx = textCanvas.getContext("2d");
-
-    ctx.font = "14px Arial";
-
-    ctx.fillStyle = "#000000";
-
-    ctx.textAlign = "center";
-
-    ctx.fillText(text, textCanvas.width / 2, textCanvas.height / 2);
-
-    const qrcodeCanvas = document.getElementById("qrcodeCanvas");
-
-    qrcodeCanvas.parentNode.insertBefore(textCanvas, qrcodeCanvas.nextSibling);
-
-  });
- 
